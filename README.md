@@ -40,7 +40,7 @@ By the end of this class you will be able to:
  
 #### Exercise: Create your first chart using the Seattle Pet License data**  -  7:30
 * The Seattle Pet License dataset
-    * [In our class repository](https://Seattle_pet_license_data/Seattle_Pet_Licenses_2016_to_2018.csv)
+    * [In our class repository](/Seattle_pet_license_data/Seattle_Pet_Licenses_2016_to_2018.csv)
     * [Web link](https://data.seattle.gov/Community/Seattle-Pet-Licenses/jguv-t9rb)
 * Create a line chart with License Day on the x axis (horizontal axis) and count of License Numbers on the y axis (vertical access)
 * Duplicate worksheet and modify to be a line chart with Month on the x axis

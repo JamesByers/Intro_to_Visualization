@@ -1,5 +1,5 @@
 # Intro to Visualization
-## A short workshop to get aquainted with data visualization
+## A short workshop to get acquainted with data visualization
 
 ### Learning objectives
 By the end of this class you will be able to:

@@ -31,7 +31,7 @@ By the end of this class you will be able to:
  
 #### Code-along  -  7:00
 * Download the Pronto Bike Share dataset
-  * [In our class repository](https://github.com/JamesByers/Intro_to_Visualization/tree/master/Seattle_pet_license_data)
+  * [In our class repository](/Pronto_bike_share_visualization/cycle-share-dataset/trip.csv)
   * [Web Location](https://www.kaggle.com/pronto/cycle-share-dataset)
     * Note this data set on Kaggle has some data quality issues that are eliminated in the class repository version
 * Get aquainted with the worksheet editing areas and functions
@@ -40,7 +40,7 @@ By the end of this class you will be able to:
  
 #### Exercise: Create your first chart using the Seattle Pet License data**  -  7:30
 * The Seattle Pet License dataset
-    * [In our class repository](https://github.com/JamesByers/Intro_to_Visualization/tree/master/Pronto_bike_share_visualization/cycle-
+    * [In our class repository](https://Seattle_pet_license_data/Seattle_Pet_Licenses_2016_to_2018.csv)
     * [Web link](https://data.seattle.gov/Community/Seattle-Pet-Licenses/jguv-t9rb)
 * Create a line chart with License Day on the x axis (horizontal axis) and count of License Numbers on the y axis (vertical access)
 * Duplicate worksheet and modify to be a line chart with Month on the x axis
@@ -49,7 +49,7 @@ By the end of this class you will be able to:
   
 #### Code along #2  -  7:45
 * Freemont bridge data
-  * [In our class repository](https://github.com/JamesByers/Intro_to_Visualization/blob/master/Freemont_bridge_data/Freemont_bridge_bike_traffic-daily.json)
+  * [In our class repository](/Freemont_bridge_data/Freemont_bridge_bike_traffic-daily.json)
   * [Web link](https://data.seattle.gov/Transportation/Fremont-Bridge-Daily-Bicycle-Counts/eytj-7qg9/data)
 * Create simple calculated fields
 * Work with multiple measures

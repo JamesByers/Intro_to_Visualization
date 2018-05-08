@@ -11,8 +11,7 @@
   * Get aquainted with the worksheet functions
   * Connect to a file in Tableau
   * Create a chart
-* **Exercise: Develop your first graph**   7:30
-  * Data: Seattle Pet Licenses
+* **Exercise: Develop your first graph Seattle Pet Licenses data **   7:30
 * **Code along**   7:45
   * Create simple calculated fields
   * Work with multiple measures

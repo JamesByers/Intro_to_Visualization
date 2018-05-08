@@ -1,5 +1,5 @@
 # Intro to Visualization
-## A short workshop to get aquainted with a visualization tool
+## A short workshop to get aquainted with data visualization
 
 ### Learning objectives
 By the end of this class you will be able to:
@@ -27,30 +27,31 @@ By the end of this class you will be able to:
  
 ## Content
 
-##### Visualization overview
+##### Visualization overview   6:45
+* [A few slides](https://docs.google.com/presentation/d/1fRl4N4mOWAYA5mRbtbnBE5lQMnku0eSJa6vqJq9oUgI/edit?usp=sharing)
  
-#### Code-along
-  * Download the Pronto Bike Share dataset
-    * [Web Location](https://www.kaggle.com/pronto/cycle-share-dataset)
-      * Note this data set on Kaggle has some data quality issues that are eliminated in the class repository version
-    * [In our class repository](https://github.com/JamesByers/Intro_to_Visualization/tree/master/Seattle_pet_license_data)
-  * Get aquainted with the worksheet functions
-  * Connect to a file in Tableau
-  * Create a simple chart
+#### Code-along   7:00
+* Download the Pronto Bike Share dataset
+  * [In our class repository](https://github.com/JamesByers/Intro_to_Visualization/tree/master/Seattle_pet_license_data)
+  * [Web Location](https://www.kaggle.com/pronto/cycle-share-dataset)
+    * Note this data set on Kaggle has some data quality issues that are eliminated in the class repository version
+* Get aquainted with the worksheet editing areas and functions
+* Connect to a file in Tableau
+* Create a simple chart
  
-#### Exercise: Create your first chart using the Seattle Pet License data**  
+#### Exercise: Create your first chart using the Seattle Pet License data**   7:30
 * The Seattle Pet License dataset
-    * [Web link](https://data.seattle.gov/Community/Seattle-Pet-Licenses/jguv-t9rb)
     * [In our class repository](https://github.com/JamesByers/Intro_to_Visualization/tree/master/Pronto_bike_share_visualization/cycle-
+    * [Web link](https://data.seattle.gov/Community/Seattle-Pet-Licenses/jguv-t9rb)
 * Create a line chart with License Day on the x axis (horizontal axis) and count of License Numbers on the y axis (vertical access)
 * Duplicate worksheet and modify to be a line chart with Month on the x axis
 * Modify to be a bar chart
 * Duplicate the worksheet and modify so that the chart shows the count of the licenses by month for all years
   
-#### Code along #2
+#### Code along #2   7:45
 * Freemont bridge data
-  * [Web link](https://data.seattle.gov/Transportation/Fremont-Bridge-Daily-Bicycle-Counts/eytj-7qg9/data)
   * [In our class repository](https://github.com/JamesByers/Intro_to_Visualization/blob/master/Freemont_bridge_data/Freemont_bridge_bike_traffic-daily.json)
+  * [Web link](https://data.seattle.gov/Transportation/Fremont-Bridge-Daily-Bicycle-Counts/eytj-7qg9/data)
 * Create simple calculated fields
 * Work with multiple measures
 * Add filters
@@ -64,12 +65,12 @@ By the end of this class you will be able to:
   * Add text and blank areas for clarity and pleasant appearence
 
 * **Exercise: Create dashboards with Pronto Bike share data**
-  * Create a chart with a count of Trips by day of the week
+  * Together let's create a chart with a count of Trips by day of the week (code along)
     * Add a color of Month of Starttime
     * Add a filter of Month of Starttime and select just December 2014 and July or 2015
   * Create another chart (new worksheet) with the average trip duration vs day of the week
     * Add a color of Month of Starttime
     * Add a filter of Month of Starttime and select just December 2014 and July or 2015
   * Combine these into a dashboard
-  * Bonus: Try different formatting options to modify the charts and dashboard
+  * Bonus: Find something interesting in the data from a vizualization
   

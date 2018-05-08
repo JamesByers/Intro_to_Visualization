@@ -56,20 +56,23 @@ By the end of this class you will be able to:
 * Add filters
 
 #### Exercise with Elliot Bay Trail data  -  8:00
-  * Use calculated fields to create a chart of pedestrians by month.  And create a chart of bikes by summing the pedestrian counts and the bike counts
-  * Create a new chart using the "Measure Names and filters to create a chart comparing all four entrance counts over time
+* Elliot Bay Trail data
+  * [In our class repository](/Elliot_bay_trail_data/Elliott_Bay_Trail_in_Myrtle_Edwards_Park.csv)
+  * [Web link](https://data.seattle.gov/Transportation/Elliott-Bay-Trail-in-Myrtle-Edwards-Park/4qej-qvrz)
+
+* Use calculated fields to create a chart of pedestrians by month
+* Create a new chart using the "Measure Names and filters to create a chart comparing all four entrance counts over time
   
 #### Code along - Create Dashboards  -  8:20
-  * Create a dashboard from worksheet visualizations
-  * Add text and blank areas for clarity and pleasant appearence
+* Create a dashboard from worksheet visualizations
+* Add text and blank areas for clarity and pleasant appearence
 
 #### Exercise: Create dashboards with Pronto Bike share data
-  * Together let's create a chart with a count of Trips by day of the week (code along)
-    * Add a color of Month of Starttime
-    * Add a filter of Month of Starttime and select just December 2014 and July or 2015
-  * Create another chart (new worksheet) with the average trip duration vs day of the week
-    * Add a color of Month of Starttime
-    * Add a filter of Month of Starttime and select just December 2014 and July or 2015
-  * Combine these into a dashboard
-  * Bonus: Find something interesting in the data with a vizualization
+* Together let's create a chart with a count of Trips by day of the week (code along)
+  * Add a color of Month of Starttime
+  * Add a filter of Month of Starttime and select just December 2014 and July or 2015
+* Create another chart (new worksheet) with the average trip duration vs day of the week
+  * Add a color of Month of Starttime
+  * Add a filter of Month of Starttime and select just December 2014 and July or 2015
+* Combine these into a dashboard * Bonus: Find something interesting in the data with a vizualization
   

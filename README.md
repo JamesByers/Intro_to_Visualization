@@ -11,7 +11,7 @@ By the end of this class you will be able to:
 * **Introductions** -  6:30
 * **Visualization overview**  -  6:45
 * **Code-along with the Pronto Bike Share data**  -  7:00
-  * Get aquainted with the worksheet functions
+  * Get aquainted with the Tableau worksheet functions
   * Connect to a file in Tableau
   * Create a simple chart
 * **Exercise: Develop your first graph Seattle Pet Licenses data**  -  7:30
@@ -34,7 +34,7 @@ By the end of this class you will be able to:
   * [In our class repository](/Pronto_bike_share_visualization/cycle-share-dataset/trip.csv)
   * [Web Location](https://www.kaggle.com/pronto/cycle-share-dataset)
     * Note this data set on Kaggle has some data quality issues that are eliminated in the class repository version
-* Get aquainted with the worksheet editing areas and functions
+* Get aquainted with the Tableau worksheet editing areas and functions
 * Connect to a file in Tableau
 * Create a simple chart
  

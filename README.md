@@ -45,3 +45,15 @@ By the end of this class you will be able to:
 * Modify to be a bar chart
 * Duplicate the worksheet and modify so that the chart shows the count of the licenses by month for all years
   
+#### Code along #2
+* Create simple calculated fields
+* Work with multiple measures
+* Add filters
+
+#### Exercise with Elliot Bay Trail data**
+  * Use calculated fields to create a chart of pedestrians vs. bikes by summing the pedestrian counts and the bike counts
+    * use dual axis to create chart comparing the two over time
+  * Create a new chart using the "Measure Names and filters to create a chart comparing all four entrance counts over time
+  
+* **Code along - Create Dashboards**
+* **Exercise: Create dashboards with Pronto Bike share data**

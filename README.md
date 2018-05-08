@@ -74,5 +74,6 @@ By the end of this class you will be able to:
 * Create another chart (new worksheet) with the average trip duration vs day of the week
   * Add a color of Month of Starttime
   * Add a filter of Month of Starttime and select just December 2014 and July or 2015
-* Combine these into a dashboard * Bonus: Find something interesting in the data with a vizualization
+* Combine these into a dashboard
+* Bonus: Find something interesting in the data with a vizualization
   

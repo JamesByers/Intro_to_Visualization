@@ -3,7 +3,7 @@
 
 ### Learning objectives
 By the end of this class you will be able to:
-* Describe where visualization is used in the Analytics lifecycle
+* Describe where visualization is used in the Analytics workflow
 * Create a visualization using Tableau
 * Create a dashboard from several visualizations
 
@@ -11,7 +11,7 @@ By the end of this class you will be able to:
 * **Introductions** -  6:30
 * **Visualization overview**  -  6:45
 * **Code-along with the Pronto Bike Share data**  -  7:00
-  * Get aquainted with the Tableau worksheet functions
+  * Get acquainted  with the Tableau worksheet functions
   * Connect to a file in Tableau
   * Create a simple chart
 * **Exercise: Develop your first graph Seattle Pet Licenses data**  -  7:30
@@ -34,7 +34,7 @@ By the end of this class you will be able to:
   * [In our class repository](/Pronto_bike_share_visualization/cycle-share-dataset/trip.csv)
   * [Web Location](https://www.kaggle.com/pronto/cycle-share-dataset)
     * Note this data set on Kaggle has some data quality issues that are eliminated in the class repository version
-* Get aquainted with the Tableau worksheet editing areas and functions
+* Get acquainted with the Tableau worksheet editing areas and functions
 * Connect to a file in Tableau
 * Create a simple chart
  
@@ -64,7 +64,7 @@ By the end of this class you will be able to:
 * Create a new chart using the "Measure Names and filters to create a chart comparing all four entrance counts over time
   
 #### Code along - Create Dashboards  -  8:20
-* Create a dashboard from worksheet visualizations
+* Create a dashboard from worksheet vizualizations
 * Add text and blank areas for clarity and pleasant appearence
 
 #### Exercise: Create dashboards with Pronto Bike share data

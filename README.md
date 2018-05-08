@@ -59,8 +59,10 @@ By the end of this class you will be able to:
   * [In our class repository](/Elliot_bay_trail_data/Elliott_Bay_Trail_in_Myrtle_Edwards_Park.csv)
   * [Web link](https://data.seattle.gov/Transportation/Elliott-Bay-Trail-in-Myrtle-Edwards-Park/4qej-qvrz)
 
-* Use calculated fields to create a chart of pedestrians by month
-* Create a new chart using the "Measure Names and filters to create a chart comparing all four entrance counts over time
+* Use a calculated fields to create a line chart of total pedestrians by month
+* Use a calculated fields to create a line chart of bikes by month
+* Create a new chart using the "Measure Names" and filters to create a chart comparing total pedestrians and bikes over time
+* Bonus: Create a new chart that compares all four bike and pedestrian counts over time
   
 #### Code along - Create Dashboards  -  8:20
 * Create a dashboard from worksheet vizualizations

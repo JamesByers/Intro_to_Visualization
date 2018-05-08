@@ -45,7 +45,6 @@ By the end of this class you will be able to:
 * Create a line chart with License Day on the x axis (horizontal axis) and count of License Numbers on the y axis (vertical access)
 * Duplicate worksheet and modify to be a line chart with Month on the x axis
 * Modify to be a bar chart
-* Duplicate the worksheet and modify so that the chart shows the count of the licenses by month for all years
   
 #### Code along: Work with multiple measures  -  7:45
 * Freemont bridge data

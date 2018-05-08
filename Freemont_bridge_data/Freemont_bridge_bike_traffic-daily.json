@@ -1,0 +1,5002 @@
+[
+    {
+        "date": "2017-06-12T09:00:00.000",
+        "fremont_bridge_nb": "272",
+        "fremont_bridge_sb": "141"
+    },
+    {
+        "date": "2017-06-27T16:00:00.000",
+        "fremont_bridge_nb": "433",
+        "fremont_bridge_sb": "134"
+    },
+    {
+        "date": "2017-06-07T07:00:00.000",
+        "fremont_bridge_nb": "540",
+        "fremont_bridge_sb": "328"
+    },
+    {
+        "date": "2017-06-10T00:00:00.000",
+        "fremont_bridge_nb": "18",
+        "fremont_bridge_sb": "9"
+    },
+    {
+        "date": "2017-06-04T08:00:00.000",
+        "fremont_bridge_nb": "105",
+        "fremont_bridge_sb": "60"
+    },
+    {
+        "date": "2017-06-27T14:00:00.000",
+        "fremont_bridge_nb": "110",
+        "fremont_bridge_sb": "48"
+    },
+    {
+        "date": "2017-06-18T05:00:00.000",
+        "fremont_bridge_nb": "11",
+        "fremont_bridge_sb": "5"
+    },
+    {
+        "date": "2017-06-11T16:00:00.000",
+        "fremont_bridge_nb": "181",
+        "fremont_bridge_sb": "87"
+    },
+    {
+        "date": "2017-06-16T03:00:00.000",
+        "fremont_bridge_nb": "2",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-18T04:00:00.000",
+        "fremont_bridge_nb": "5",
+        "fremont_bridge_sb": "5"
+    },
+    {
+        "date": "2017-06-28T01:00:00.000",
+        "fremont_bridge_nb": "5",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-06-29T02:00:00.000",
+        "fremont_bridge_nb": "1",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-20T21:00:00.000",
+        "fremont_bridge_nb": "51",
+        "fremont_bridge_sb": "23"
+    },
+    {
+        "date": "2017-06-20T10:00:00.000",
+        "fremont_bridge_nb": "100",
+        "fremont_bridge_sb": "47"
+    },
+    {
+        "date": "2017-06-16T04:00:00.000",
+        "fremont_bridge_nb": "3",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-06-24T13:00:00.000",
+        "fremont_bridge_nb": "173",
+        "fremont_bridge_sb": "88"
+    },
+    {
+        "date": "2017-06-26T14:00:00.000",
+        "fremont_bridge_nb": "101",
+        "fremont_bridge_sb": "48"
+    },
+    {
+        "date": "2017-06-20T18:00:00.000",
+        "fremont_bridge_nb": "433",
+        "fremont_bridge_sb": "114"
+    },
+    {
+        "date": "2015-11-15T02:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-04T07:00:00.000",
+        "fremont_bridge_nb": "51",
+        "fremont_bridge_sb": "29"
+    },
+    {
+        "date": "2017-06-03T05:00:00.000",
+        "fremont_bridge_nb": "12",
+        "fremont_bridge_sb": "8"
+    },
+    {
+        "date": "2017-06-27T03:00:00.000",
+        "fremont_bridge_nb": "3",
+        "fremont_bridge_sb": "1"
+    },
+    {
+        "date": "2017-06-26T19:00:00.000",
+        "fremont_bridge_nb": "292",
+        "fremont_bridge_sb": "105"
+    },
+    {
+        "date": "2017-06-23T00:00:00.000",
+        "fremont_bridge_nb": "15",
+        "fremont_bridge_sb": "10"
+    },
+    {
+        "date": "2017-06-23T13:00:00.000",
+        "fremont_bridge_nb": "131",
+        "fremont_bridge_sb": "57"
+    },
+    {
+        "date": "2017-06-29T16:00:00.000",
+        "fremont_bridge_nb": "373",
+        "fremont_bridge_sb": "117"
+    },
+    {
+        "date": "2017-06-03T03:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2015-11-29T04:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-02T06:00:00.000",
+        "fremont_bridge_nb": "161",
+        "fremont_bridge_sb": "98"
+    },
+    {
+        "date": "2017-06-26T06:00:00.000",
+        "fremont_bridge_nb": "160",
+        "fremont_bridge_sb": "94"
+    },
+    {
+        "date": "2017-01-09T01:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-06T04:00:00.000",
+        "fremont_bridge_nb": "14",
+        "fremont_bridge_sb": "10"
+    },
+    {
+        "date": "2017-06-02T23:00:00.000",
+        "fremont_bridge_nb": "28",
+        "fremont_bridge_sb": "11"
+    },
+    {
+        "date": "2017-06-24T08:00:00.000",
+        "fremont_bridge_nb": "151",
+        "fremont_bridge_sb": "93"
+    },
+    {
+        "date": "2017-06-01T13:00:00.000",
+        "fremont_bridge_nb": "102",
+        "fremont_bridge_sb": "46"
+    },
+    {
+        "date": "2017-06-30T15:00:00.000",
+        "fremont_bridge_nb": "253",
+        "fremont_bridge_sb": "79"
+    },
+    {
+        "date": "2017-01-01T05:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-25T06:00:00.000",
+        "fremont_bridge_nb": "12",
+        "fremont_bridge_sb": "5"
+    },
+    {
+        "date": "2017-06-02T07:00:00.000",
+        "fremont_bridge_nb": "352",
+        "fremont_bridge_sb": "217"
+    },
+    {
+        "date": "2017-06-09T11:00:00.000",
+        "fremont_bridge_nb": "78",
+        "fremont_bridge_sb": "37"
+    },
+    {
+        "date": "2017-06-17T04:00:00.000",
+        "fremont_bridge_nb": "1",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-30T06:00:00.000",
+        "fremont_bridge_nb": "162",
+        "fremont_bridge_sb": "105"
+    },
+    {
+        "date": "2017-06-07T01:00:00.000",
+        "fremont_bridge_nb": "10",
+        "fremont_bridge_sb": "4"
+    },
+    {
+        "date": "2017-06-03T02:00:00.000",
+        "fremont_bridge_nb": "7",
+        "fremont_bridge_sb": "5"
+    },
+    {
+        "date": "2017-06-16T20:00:00.000",
+        "fremont_bridge_nb": "116",
+        "fremont_bridge_sb": "46"
+    },
+    {
+        "date": "2017-06-07T18:00:00.000",
+        "fremont_bridge_nb": "510",
+        "fremont_bridge_sb": "177"
+    },
+    {
+        "date": "2017-06-06T06:00:00.000",
+        "fremont_bridge_nb": "218",
+        "fremont_bridge_sb": "133"
+    },
+    {
+        "date": "2017-06-27T23:00:00.000",
+        "fremont_bridge_nb": "26",
+        "fremont_bridge_sb": "10"
+    },
+    {
+        "date": "2017-06-25T09:00:00.000",
+        "fremont_bridge_nb": "146",
+        "fremont_bridge_sb": "74"
+    },
+    {
+        "date": "2017-06-25T23:00:00.000",
+        "fremont_bridge_nb": "20",
+        "fremont_bridge_sb": "9"
+    },
+    {
+        "date": "2017-06-06T21:00:00.000",
+        "fremont_bridge_nb": "84",
+        "fremont_bridge_sb": "46"
+    },
+    {
+        "date": "2017-01-26T01:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-11T05:00:00.000",
+        "fremont_bridge_nb": "5",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-06-07T08:00:00.000",
+        "fremont_bridge_nb": "704",
+        "fremont_bridge_sb": "411"
+    },
+    {
+        "date": "2017-06-14T23:00:00.000",
+        "fremont_bridge_nb": "29",
+        "fremont_bridge_sb": "18"
+    },
+    {
+        "date": "2017-06-11T10:00:00.000",
+        "fremont_bridge_nb": "124",
+        "fremont_bridge_sb": "60"
+    },
+    {
+        "date": "2017-06-06T01:00:00.000",
+        "fremont_bridge_nb": "2",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-03T23:00:00.000",
+        "fremont_bridge_nb": "21",
+        "fremont_bridge_sb": "11"
+    },
+    {
+        "date": "2017-06-23T21:00:00.000",
+        "fremont_bridge_nb": "74",
+        "fremont_bridge_sb": "29"
+    },
+    {
+        "date": "2017-06-21T05:00:00.000",
+        "fremont_bridge_nb": "50",
+        "fremont_bridge_sb": "33"
+    },
+    {
+        "date": "2017-06-08T11:00:00.000",
+        "fremont_bridge_nb": "43",
+        "fremont_bridge_sb": "23"
+    },
+    {
+        "date": "2017-06-06T13:00:00.000",
+        "fremont_bridge_nb": "128",
+        "fremont_bridge_sb": "73"
+    },
+    {
+        "date": "2017-06-16T21:00:00.000",
+        "fremont_bridge_nb": "70",
+        "fremont_bridge_sb": "30"
+    },
+    {
+        "date": "2017-06-20T07:00:00.000",
+        "fremont_bridge_nb": "403",
+        "fremont_bridge_sb": "238"
+    },
+    {
+        "date": "2017-06-05T14:00:00.000",
+        "fremont_bridge_nb": "109",
+        "fremont_bridge_sb": "56"
+    },
+    {
+        "date": "2017-06-08T18:00:00.000",
+        "fremont_bridge_nb": "279",
+        "fremont_bridge_sb": "74"
+    },
+    {
+        "date": "2017-06-23T10:00:00.000",
+        "fremont_bridge_nb": "140",
+        "fremont_bridge_sb": "81"
+    },
+    {
+        "date": "2017-06-07T09:00:00.000",
+        "fremont_bridge_nb": "350",
+        "fremont_bridge_sb": "190"
+    },
+    {
+        "date": "2017-06-15T10:00:00.000",
+        "fremont_bridge_nb": "53",
+        "fremont_bridge_sb": "28"
+    },
+    {
+        "date": "2017-06-13T00:00:00.000",
+        "fremont_bridge_nb": "6",
+        "fremont_bridge_sb": "1"
+    },
+    {
+        "date": "2017-06-22T14:00:00.000",
+        "fremont_bridge_nb": "130",
+        "fremont_bridge_sb": "47"
+    },
+    {
+        "date": "2017-06-18T07:00:00.000",
+        "fremont_bridge_nb": "34",
+        "fremont_bridge_sb": "23"
+    },
+    {
+        "date": "2017-01-15T04:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-09T18:00:00.000",
+        "fremont_bridge_nb": "293",
+        "fremont_bridge_sb": "76"
+    },
+    {
+        "date": "2017-01-13T03:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-10T10:00:00.000",
+        "fremont_bridge_nb": "143",
+        "fremont_bridge_sb": "78"
+    },
+    {
+        "date": "2017-06-18T13:00:00.000",
+        "fremont_bridge_nb": "142",
+        "fremont_bridge_sb": "69"
+    },
+    {
+        "date": "2017-06-12T04:00:00.000",
+        "fremont_bridge_nb": "10",
+        "fremont_bridge_sb": "7"
+    },
+    {
+        "date": "2017-01-09T02:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-28T12:00:00.000",
+        "fremont_bridge_nb": "94",
+        "fremont_bridge_sb": "49"
+    },
+    {
+        "date": "2017-06-09T03:00:00.000",
+        "fremont_bridge_nb": "4",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-27T06:00:00.000",
+        "fremont_bridge_nb": "175",
+        "fremont_bridge_sb": "106"
+    },
+    {
+        "date": "2017-01-11T03:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-26T05:00:00.000",
+        "fremont_bridge_nb": "48",
+        "fremont_bridge_sb": "33"
+    },
+    {
+        "date": "2017-06-20T22:00:00.000",
+        "fremont_bridge_nb": "36",
+        "fremont_bridge_sb": "20"
+    },
+    {
+        "date": "2017-06-12T23:00:00.000",
+        "fremont_bridge_nb": "20",
+        "fremont_bridge_sb": "11"
+    },
+    {
+        "date": "2017-06-02T22:00:00.000",
+        "fremont_bridge_nb": "45",
+        "fremont_bridge_sb": "22"
+    },
+    {
+        "date": "2017-06-05T07:00:00.000",
+        "fremont_bridge_nb": "460",
+        "fremont_bridge_sb": "282"
+    },
+    {
+        "date": "2017-01-11T01:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-10T11:00:00.000",
+        "fremont_bridge_nb": "160",
+        "fremont_bridge_sb": "75"
+    },
+    {
+        "date": "2017-06-17T14:00:00.000",
+        "fremont_bridge_nb": "91",
+        "fremont_bridge_sb": "52"
+    },
+    {
+        "date": "2017-06-22T12:00:00.000",
+        "fremont_bridge_nb": "113",
+        "fremont_bridge_sb": "53"
+    },
+    {
+        "date": "2017-06-25T19:00:00.000",
+        "fremont_bridge_nb": "113",
+        "fremont_bridge_sb": "43"
+    },
+    {
+        "date": "2017-06-28T18:00:00.000",
+        "fremont_bridge_nb": "527",
+        "fremont_bridge_sb": "173"
+    },
+    {
+        "date": "2017-06-02T00:00:00.000",
+        "fremont_bridge_nb": "13",
+        "fremont_bridge_sb": "5"
+    },
+    {
+        "date": "2017-06-07T22:00:00.000",
+        "fremont_bridge_nb": "70",
+        "fremont_bridge_sb": "37"
+    },
+    {
+        "date": "2017-06-25T17:00:00.000",
+        "fremont_bridge_nb": "122",
+        "fremont_bridge_sb": "70"
+    },
+    {
+        "date": "2017-06-29T03:00:00.000",
+        "fremont_bridge_nb": "2",
+        "fremont_bridge_sb": "1"
+    },
+    {
+        "date": "2017-06-13T09:00:00.000",
+        "fremont_bridge_nb": "229",
+        "fremont_bridge_sb": "122"
+    },
+    {
+        "date": "2017-06-26T22:00:00.000",
+        "fremont_bridge_nb": "47",
+        "fremont_bridge_sb": "26"
+    },
+    {
+        "date": "2017-06-02T04:00:00.000",
+        "fremont_bridge_nb": "4",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-25T20:00:00.000",
+        "fremont_bridge_nb": "69",
+        "fremont_bridge_sb": "22"
+    },
+    {
+        "date": "2017-06-09T14:00:00.000",
+        "fremont_bridge_nb": "79",
+        "fremont_bridge_sb": "30"
+    },
+    {
+        "date": "2017-06-27T09:00:00.000",
+        "fremont_bridge_nb": "338",
+        "fremont_bridge_sb": "171"
+    },
+    {
+        "date": "2017-06-03T09:00:00.000",
+        "fremont_bridge_nb": "94",
+        "fremont_bridge_sb": "59"
+    },
+    {
+        "date": "2017-06-23T19:00:00.000",
+        "fremont_bridge_nb": "182",
+        "fremont_bridge_sb": "57"
+    },
+    {
+        "date": "2017-06-01T17:00:00.000",
+        "fremont_bridge_nb": "630",
+        "fremont_bridge_sb": "164"
+    },
+    {
+        "date": "2017-06-01T10:00:00.000",
+        "fremont_bridge_nb": "103",
+        "fremont_bridge_sb": "55"
+    },
+    {
+        "date": "2017-06-17T09:00:00.000",
+        "fremont_bridge_nb": "159",
+        "fremont_bridge_sb": "77"
+    },
+    {
+        "date": "2017-06-29T11:00:00.000",
+        "fremont_bridge_nb": "104",
+        "fremont_bridge_sb": "43"
+    },
+    {
+        "date": "2017-06-21T23:00:00.000",
+        "fremont_bridge_nb": "32",
+        "fremont_bridge_sb": "17"
+    },
+    {
+        "date": "2017-06-01T07:00:00.000",
+        "fremont_bridge_nb": "375",
+        "fremont_bridge_sb": "222"
+    },
+    {
+        "date": "2017-01-19T00:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-25T14:00:00.000",
+        "fremont_bridge_nb": "141",
+        "fremont_bridge_sb": "72"
+    },
+    {
+        "date": "2017-06-06T20:00:00.000",
+        "fremont_bridge_nb": "160",
+        "fremont_bridge_sb": "67"
+    },
+    {
+        "date": "2017-06-30T19:00:00.000",
+        "fremont_bridge_nb": "225",
+        "fremont_bridge_sb": "82"
+    },
+    {
+        "date": "2017-06-06T18:00:00.000",
+        "fremont_bridge_nb": "506",
+        "fremont_bridge_sb": "151"
+    },
+    {
+        "date": "2017-06-20T06:00:00.000",
+        "fremont_bridge_nb": "161",
+        "fremont_bridge_sb": "101"
+    },
+    {
+        "date": "2017-06-21T01:00:00.000",
+        "fremont_bridge_nb": "5",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-06-29T19:00:00.000",
+        "fremont_bridge_nb": "285",
+        "fremont_bridge_sb": "96"
+    },
+    {
+        "date": "2017-06-09T22:00:00.000",
+        "fremont_bridge_nb": "33",
+        "fremont_bridge_sb": "9"
+    },
+    {
+        "date": "2017-06-13T10:00:00.000",
+        "fremont_bridge_nb": "103",
+        "fremont_bridge_sb": "50"
+    },
+    {
+        "date": "2017-06-18T06:00:00.000",
+        "fremont_bridge_nb": "25",
+        "fremont_bridge_sb": "15"
+    },
+    {
+        "date": "2017-06-23T18:00:00.000",
+        "fremont_bridge_nb": "333",
+        "fremont_bridge_sb": "116"
+    },
+    {
+        "date": "2017-06-01T09:00:00.000",
+        "fremont_bridge_nb": "257",
+        "fremont_bridge_sb": "131"
+    },
+    {
+        "date": "2017-06-18T17:00:00.000",
+        "fremont_bridge_nb": "142",
+        "fremont_bridge_sb": "75"
+    },
+    {
+        "date": "2017-06-08T00:00:00.000",
+        "fremont_bridge_nb": "12",
+        "fremont_bridge_sb": "6"
+    },
+    {
+        "date": "2017-06-16T07:00:00.000",
+        "fremont_bridge_nb": "338",
+        "fremont_bridge_sb": "201"
+    },
+    {
+        "date": "2017-06-20T03:00:00.000",
+        "fremont_bridge_nb": "3",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-06-15T12:00:00.000",
+        "fremont_bridge_nb": "23",
+        "fremont_bridge_sb": "11"
+    },
+    {
+        "date": "2017-06-13T04:00:00.000",
+        "fremont_bridge_nb": "9",
+        "fremont_bridge_sb": "5"
+    },
+    {
+        "date": "2017-06-12T15:00:00.000",
+        "fremont_bridge_nb": "129",
+        "fremont_bridge_sb": "47"
+    },
+    {
+        "date": "2017-06-22T08:00:00.000",
+        "fremont_bridge_nb": "628",
+        "fremont_bridge_sb": "344"
+    },
+    {
+        "date": "2017-06-10T17:00:00.000",
+        "fremont_bridge_nb": "278",
+        "fremont_bridge_sb": "134"
+    },
+    {
+        "date": "2017-06-18T01:00:00.000",
+        "fremont_bridge_nb": "7",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-06-04T09:00:00.000",
+        "fremont_bridge_nb": "134",
+        "fremont_bridge_sb": "70"
+    },
+    {
+        "date": "2017-06-20T13:00:00.000",
+        "fremont_bridge_nb": "71",
+        "fremont_bridge_sb": "39"
+    },
+    {
+        "date": "2017-06-12T17:00:00.000",
+        "fremont_bridge_nb": "667",
+        "fremont_bridge_sb": "137"
+    },
+    {
+        "date": "2017-06-11T18:00:00.000",
+        "fremont_bridge_nb": "122",
+        "fremont_bridge_sb": "65"
+    },
+    {
+        "date": "2017-06-30T03:00:00.000",
+        "fremont_bridge_nb": "2",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-04T01:00:00.000",
+        "fremont_bridge_nb": "4",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-06-12T14:00:00.000",
+        "fremont_bridge_nb": "88",
+        "fremont_bridge_sb": "34"
+    },
+    {
+        "date": "2017-06-13T22:00:00.000",
+        "fremont_bridge_nb": "37",
+        "fremont_bridge_sb": "11"
+    },
+    {
+        "date": "2017-06-23T14:00:00.000",
+        "fremont_bridge_nb": "148",
+        "fremont_bridge_sb": "56"
+    },
+    {
+        "date": "2017-06-15T08:00:00.000",
+        "fremont_bridge_nb": "410",
+        "fremont_bridge_sb": "237"
+    },
+    {
+        "date": "2017-06-11T21:00:00.000",
+        "fremont_bridge_nb": "44",
+        "fremont_bridge_sb": "25"
+    },
+    {
+        "date": "2017-06-30T17:00:00.000",
+        "fremont_bridge_nb": "591",
+        "fremont_bridge_sb": "151"
+    },
+    {
+        "date": "2017-06-26T18:00:00.000",
+        "fremont_bridge_nb": "471",
+        "fremont_bridge_sb": "151"
+    },
+    {
+        "date": "2017-06-06T02:00:00.000",
+        "fremont_bridge_nb": "2",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-11T04:00:00.000",
+        "fremont_bridge_nb": "2",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-06-03T13:00:00.000",
+        "fremont_bridge_nb": "141",
+        "fremont_bridge_sb": "71"
+    },
+    {
+        "date": "2017-06-08T23:00:00.000",
+        "fremont_bridge_nb": "20",
+        "fremont_bridge_sb": "4"
+    },
+    {
+        "date": "2017-06-09T21:00:00.000",
+        "fremont_bridge_nb": "45",
+        "fremont_bridge_sb": "24"
+    },
+    {
+        "date": "2017-06-23T11:00:00.000",
+        "fremont_bridge_nb": "120",
+        "fremont_bridge_sb": "56"
+    },
+    {
+        "date": "2017-06-08T07:00:00.000",
+        "fremont_bridge_nb": "243",
+        "fremont_bridge_sb": "157"
+    },
+    {
+        "date": "2017-06-01T22:00:00.000",
+        "fremont_bridge_nb": "49",
+        "fremont_bridge_sb": "28"
+    },
+    {
+        "date": "2017-06-07T15:00:00.000",
+        "fremont_bridge_nb": "194",
+        "fremont_bridge_sb": "92"
+    },
+    {
+        "date": "2017-06-23T23:00:00.000",
+        "fremont_bridge_nb": "36",
+        "fremont_bridge_sb": "15"
+    },
+    {
+        "date": "2017-06-20T01:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-23T09:00:00.000",
+        "fremont_bridge_nb": "297",
+        "fremont_bridge_sb": "161"
+    },
+    {
+        "date": "2017-06-30T04:00:00.000",
+        "fremont_bridge_nb": "6",
+        "fremont_bridge_sb": "3"
+    },
+    {
+        "date": "2017-06-28T05:00:00.000",
+        "fremont_bridge_nb": "57",
+        "fremont_bridge_sb": "41"
+    },
+    {
+        "date": "2017-06-06T09:00:00.000",
+        "fremont_bridge_nb": "327",
+        "fremont_bridge_sb": "160"
+    },
+    {
+        "date": "2017-06-05T06:00:00.000",
+        "fremont_bridge_nb": "198",
+        "fremont_bridge_sb": "114"
+    },
+    {
+        "date": "2017-06-07T19:00:00.000",
+        "fremont_bridge_nb": "315",
+        "fremont_bridge_sb": "113"
+    },
+    {
+        "date": "2017-06-21T14:00:00.000",
+        "fremont_bridge_nb": "122",
+        "fremont_bridge_sb": "54"
+    },
+    {
+        "date": "2017-06-09T08:00:00.000",
+        "fremont_bridge_nb": "493",
+        "fremont_bridge_sb": "279"
+    },
+    {
+        "date": "2017-06-11T09:00:00.000",
+        "fremont_bridge_nb": "103",
+        "fremont_bridge_sb": "53"
+    },
+    {
+        "date": "2017-06-05T02:00:00.000",
+        "fremont_bridge_nb": "1",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-26T13:00:00.000",
+        "fremont_bridge_nb": "81",
+        "fremont_bridge_sb": "46"
+    },
+    {
+        "date": "2017-06-09T17:00:00.000",
+        "fremont_bridge_nb": "537",
+        "fremont_bridge_sb": "136"
+    },
+    {
+        "date": "2017-06-08T22:00:00.000",
+        "fremont_bridge_nb": "44",
+        "fremont_bridge_sb": "19"
+    },
+    {
+        "date": "2017-06-09T15:00:00.000",
+        "fremont_bridge_nb": "125",
+        "fremont_bridge_sb": "41"
+    },
+    {
+        "date": "2017-06-17T18:00:00.000",
+        "fremont_bridge_nb": "85",
+        "fremont_bridge_sb": "33"
+    },
+    {
+        "date": "2017-06-27T04:00:00.000",
+        "fremont_bridge_nb": "5",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-06-06T07:00:00.000",
+        "fremont_bridge_nb": "529",
+        "fremont_bridge_sb": "299"
+    },
+    {
+        "date": "2017-06-04T19:00:00.000",
+        "fremont_bridge_nb": "71",
+        "fremont_bridge_sb": "37"
+    },
+    {
+        "date": "2017-06-08T02:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-11T14:00:00.000",
+        "fremont_bridge_nb": "208",
+        "fremont_bridge_sb": "101"
+    },
+    {
+        "date": "2017-06-28T11:00:00.000",
+        "fremont_bridge_nb": "92",
+        "fremont_bridge_sb": "35"
+    },
+    {
+        "date": "2017-06-13T19:00:00.000",
+        "fremont_bridge_nb": "208",
+        "fremont_bridge_sb": "71"
+    },
+    {
+        "date": "2017-06-01T05:00:00.000",
+        "fremont_bridge_nb": "51",
+        "fremont_bridge_sb": "34"
+    },
+    {
+        "date": "2017-06-20T15:00:00.000",
+        "fremont_bridge_nb": "278",
+        "fremont_bridge_sb": "202"
+    },
+    {
+        "date": "2017-06-20T20:00:00.000",
+        "fremont_bridge_nb": "117",
+        "fremont_bridge_sb": "54"
+    },
+    {
+        "date": "2017-06-14T08:00:00.000",
+        "fremont_bridge_nb": "545",
+        "fremont_bridge_sb": "318"
+    },
+    {
+        "date": "2017-06-22T18:00:00.000",
+        "fremont_bridge_nb": "569",
+        "fremont_bridge_sb": "185"
+    },
+    {
+        "date": "2017-06-29T06:00:00.000",
+        "fremont_bridge_nb": "172",
+        "fremont_bridge_sb": "102"
+    },
+    {
+        "date": "2017-06-12T06:00:00.000",
+        "fremont_bridge_nb": "175",
+        "fremont_bridge_sb": "108"
+    },
+    {
+        "date": "2017-06-12T05:00:00.000",
+        "fremont_bridge_nb": "54",
+        "fremont_bridge_sb": "32"
+    },
+    {
+        "date": "2017-06-10T01:00:00.000",
+        "fremont_bridge_nb": "6",
+        "fremont_bridge_sb": "4"
+    },
+    {
+        "date": "2017-06-30T11:00:00.000",
+        "fremont_bridge_nb": "135",
+        "fremont_bridge_sb": "74"
+    },
+    {
+        "date": "2017-06-05T17:00:00.000",
+        "fremont_bridge_nb": "819",
+        "fremont_bridge_sb": "176"
+    },
+    {
+        "date": "2017-06-19T01:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-02T11:00:00.000",
+        "fremont_bridge_nb": "96",
+        "fremont_bridge_sb": "48"
+    },
+    {
+        "date": "2017-06-22T20:00:00.000",
+        "fremont_bridge_nb": "198",
+        "fremont_bridge_sb": "82"
+    },
+    {
+        "date": "2017-06-18T20:00:00.000",
+        "fremont_bridge_nb": "51",
+        "fremont_bridge_sb": "22"
+    },
+    {
+        "date": "2017-06-07T23:00:00.000",
+        "fremont_bridge_nb": "24",
+        "fremont_bridge_sb": "12"
+    },
+    {
+        "date": "2017-06-21T21:00:00.000",
+        "fremont_bridge_nb": "103",
+        "fremont_bridge_sb": "50"
+    },
+    {
+        "date": "2017-06-01T11:00:00.000",
+        "fremont_bridge_nb": "77",
+        "fremont_bridge_sb": "37"
+    },
+    {
+        "date": "2017-06-06T00:00:00.000",
+        "fremont_bridge_nb": "11",
+        "fremont_bridge_sb": "3"
+    },
+    {
+        "date": "2017-06-30T05:00:00.000",
+        "fremont_bridge_nb": "47",
+        "fremont_bridge_sb": "31"
+    },
+    {
+        "date": "2017-06-28T17:00:00.000",
+        "fremont_bridge_nb": "707",
+        "fremont_bridge_sb": "163"
+    },
+    {
+        "date": "2017-06-27T17:00:00.000",
+        "fremont_bridge_nb": "771",
+        "fremont_bridge_sb": "199"
+    },
+    {
+        "date": "2017-06-30T07:00:00.000",
+        "fremont_bridge_nb": "378",
+        "fremont_bridge_sb": "218"
+    },
+    {
+        "date": "2017-06-09T04:00:00.000",
+        "fremont_bridge_nb": "5",
+        "fremont_bridge_sb": "3"
+    },
+    {
+        "date": "2017-06-29T12:00:00.000",
+        "fremont_bridge_nb": "110",
+        "fremont_bridge_sb": "50"
+    },
+    {
+        "date": "2017-01-18T01:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-21T09:00:00.000",
+        "fremont_bridge_nb": "340",
+        "fremont_bridge_sb": "177"
+    },
+    {
+        "date": "2017-06-08T21:00:00.000",
+        "fremont_bridge_nb": "51",
+        "fremont_bridge_sb": "26"
+    },
+    {
+        "date": "2017-06-04T12:00:00.000",
+        "fremont_bridge_nb": "180",
+        "fremont_bridge_sb": "93"
+    },
+    {
+        "date": "2017-06-02T12:00:00.000",
+        "fremont_bridge_nb": "101",
+        "fremont_bridge_sb": "45"
+    },
+    {
+        "date": "2017-06-17T01:00:00.000",
+        "fremont_bridge_nb": "9",
+        "fremont_bridge_sb": "6"
+    },
+    {
+        "date": "2017-06-27T20:00:00.000",
+        "fremont_bridge_nb": "160",
+        "fremont_bridge_sb": "60"
+    },
+    {
+        "date": "2017-06-20T00:00:00.000",
+        "fremont_bridge_nb": "12",
+        "fremont_bridge_sb": "7"
+    },
+    {
+        "date": "2015-11-21T02:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-23T20:00:00.000",
+        "fremont_bridge_nb": "114",
+        "fremont_bridge_sb": "55"
+    },
+    {
+        "date": "2017-06-09T06:00:00.000",
+        "fremont_bridge_nb": "117",
+        "fremont_bridge_sb": "61"
+    },
+    {
+        "date": "2017-06-17T15:00:00.000",
+        "fremont_bridge_nb": "108",
+        "fremont_bridge_sb": "53"
+    },
+    {
+        "date": "2017-06-17T03:00:00.000",
+        "fremont_bridge_nb": "2",
+        "fremont_bridge_sb": "1"
+    },
+    {
+        "date": "2017-06-04T23:00:00.000",
+        "fremont_bridge_nb": "9",
+        "fremont_bridge_sb": "3"
+    },
+    {
+        "date": "2017-06-27T00:00:00.000",
+        "fremont_bridge_nb": "13",
+        "fremont_bridge_sb": "4"
+    },
+    {
+        "date": "2017-06-05T21:00:00.000",
+        "fremont_bridge_nb": "88",
+        "fremont_bridge_sb": "31"
+    },
+    {
+        "date": "2017-06-17T17:00:00.000",
+        "fremont_bridge_nb": "147",
+        "fremont_bridge_sb": "89"
+    },
+    {
+        "date": "2017-06-26T01:00:00.000",
+        "fremont_bridge_nb": "4",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-06-05T03:00:00.000",
+        "fremont_bridge_nb": "2",
+        "fremont_bridge_sb": "1"
+    },
+    {
+        "date": "2017-06-02T15:00:00.000",
+        "fremont_bridge_nb": "205",
+        "fremont_bridge_sb": "71"
+    },
+    {
+        "date": "2017-06-24T06:00:00.000",
+        "fremont_bridge_nb": "31",
+        "fremont_bridge_sb": "13"
+    },
+    {
+        "date": "2017-06-04T13:00:00.000",
+        "fremont_bridge_nb": "210",
+        "fremont_bridge_sb": "104"
+    },
+    {
+        "date": "2017-06-14T10:00:00.000",
+        "fremont_bridge_nb": "137",
+        "fremont_bridge_sb": "57"
+    },
+    {
+        "date": "2017-06-04T00:00:00.000",
+        "fremont_bridge_nb": "15",
+        "fremont_bridge_sb": "9"
+    },
+    {
+        "date": "2017-06-09T12:00:00.000",
+        "fremont_bridge_nb": "75",
+        "fremont_bridge_sb": "36"
+    },
+    {
+        "date": "2017-06-02T03:00:00.000",
+        "fremont_bridge_nb": "7",
+        "fremont_bridge_sb": "4"
+    },
+    {
+        "date": "2017-06-12T18:00:00.000",
+        "fremont_bridge_nb": "462",
+        "fremont_bridge_sb": "122"
+    },
+    {
+        "date": "2017-06-16T10:00:00.000",
+        "fremont_bridge_nb": "110",
+        "fremont_bridge_sb": "63"
+    },
+    {
+        "date": "2017-06-24T09:00:00.000",
+        "fremont_bridge_nb": "177",
+        "fremont_bridge_sb": "101"
+    },
+    {
+        "date": "2017-06-08T19:00:00.000",
+        "fremont_bridge_nb": "137",
+        "fremont_bridge_sb": "42"
+    },
+    {
+        "date": "2017-06-12T07:00:00.000",
+        "fremont_bridge_nb": "436",
+        "fremont_bridge_sb": "273"
+    },
+    {
+        "date": "2017-06-02T14:00:00.000",
+        "fremont_bridge_nb": "143",
+        "fremont_bridge_sb": "67"
+    },
+    {
+        "date": "2017-06-26T15:00:00.000",
+        "fremont_bridge_nb": "162",
+        "fremont_bridge_sb": "61"
+    },
+    {
+        "date": "2017-06-26T08:00:00.000",
+        "fremont_bridge_nb": "597",
+        "fremont_bridge_sb": "334"
+    },
+    {
+        "date": "2017-06-10T20:00:00.000",
+        "fremont_bridge_nb": "102",
+        "fremont_bridge_sb": "50"
+    },
+    {
+        "date": "2017-06-06T05:00:00.000",
+        "fremont_bridge_nb": "58",
+        "fremont_bridge_sb": "36"
+    },
+    {
+        "date": "2017-06-16T17:00:00.000",
+        "fremont_bridge_nb": "526",
+        "fremont_bridge_sb": "135"
+    },
+    {
+        "date": "2017-06-18T08:00:00.000",
+        "fremont_bridge_nb": "72",
+        "fremont_bridge_sb": "35"
+    },
+    {
+        "date": "2017-06-03T07:00:00.000",
+        "fremont_bridge_nb": "49",
+        "fremont_bridge_sb": "23"
+    },
+    {
+        "date": "2017-06-24T14:00:00.000",
+        "fremont_bridge_nb": "189",
+        "fremont_bridge_sb": "87"
+    },
+    {
+        "date": "2017-06-19T19:00:00.000",
+        "fremont_bridge_nb": "208",
+        "fremont_bridge_sb": "69"
+    },
+    {
+        "date": "2017-06-21T15:00:00.000",
+        "fremont_bridge_nb": "182",
+        "fremont_bridge_sb": "68"
+    },
+    {
+        "date": "2017-06-01T16:00:00.000",
+        "fremont_bridge_nb": "351",
+        "fremont_bridge_sb": "94"
+    },
+    {
+        "date": "2017-06-15T18:00:00.000",
+        "fremont_bridge_nb": "254",
+        "fremont_bridge_sb": "78"
+    },
+    {
+        "date": "2017-06-04T03:00:00.000",
+        "fremont_bridge_nb": "8",
+        "fremont_bridge_sb": "6"
+    },
+    {
+        "date": "2017-06-17T07:00:00.000",
+        "fremont_bridge_nb": "60",
+        "fremont_bridge_sb": "26"
+    },
+    {
+        "date": "2017-06-10T15:00:00.000",
+        "fremont_bridge_nb": "243",
+        "fremont_bridge_sb": "142"
+    },
+    {
+        "date": "2017-06-21T19:00:00.000",
+        "fremont_bridge_nb": "263",
+        "fremont_bridge_sb": "88"
+    },
+    {
+        "date": "2017-06-15T16:00:00.000",
+        "fremont_bridge_nb": "169",
+        "fremont_bridge_sb": "49"
+    },
+    {
+        "date": "2017-06-16T13:00:00.000",
+        "fremont_bridge_nb": "123",
+        "fremont_bridge_sb": "62"
+    },
+    {
+        "date": "2017-06-25T11:00:00.000",
+        "fremont_bridge_nb": "212",
+        "fremont_bridge_sb": "114"
+    },
+    {
+        "date": "2017-06-23T15:00:00.000",
+        "fremont_bridge_nb": "253",
+        "fremont_bridge_sb": "103"
+    },
+    {
+        "date": "2017-06-02T18:00:00.000",
+        "fremont_bridge_nb": "375",
+        "fremont_bridge_sb": "124"
+    },
+    {
+        "date": "2017-06-13T21:00:00.000",
+        "fremont_bridge_nb": "57",
+        "fremont_bridge_sb": "25"
+    },
+    {
+        "date": "2017-06-29T22:00:00.000",
+        "fremont_bridge_nb": "63",
+        "fremont_bridge_sb": "35"
+    },
+    {
+        "date": "2017-06-09T10:00:00.000",
+        "fremont_bridge_nb": "115",
+        "fremont_bridge_sb": "61"
+    },
+    {
+        "date": "2017-06-30T12:00:00.000",
+        "fremont_bridge_nb": "155",
+        "fremont_bridge_sb": "81"
+    },
+    {
+        "date": "2017-06-22T19:00:00.000",
+        "fremont_bridge_nb": "304",
+        "fremont_bridge_sb": "100"
+    },
+    {
+        "date": "2017-06-04T14:00:00.000",
+        "fremont_bridge_nb": "188",
+        "fremont_bridge_sb": "88"
+    },
+    {
+        "date": "2017-06-03T18:00:00.000",
+        "fremont_bridge_nb": "92",
+        "fremont_bridge_sb": "42"
+    },
+    {
+        "date": "2017-06-11T02:00:00.000",
+        "fremont_bridge_nb": "2",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-06-29T01:00:00.000",
+        "fremont_bridge_nb": "1",
+        "fremont_bridge_sb": "1"
+    },
+    {
+        "date": "2017-06-24T15:00:00.000",
+        "fremont_bridge_nb": "202",
+        "fremont_bridge_sb": "80"
+    },
+    {
+        "date": "2017-06-16T01:00:00.000",
+        "fremont_bridge_nb": "1",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-18T00:00:00.000",
+        "fremont_bridge_nb": "22",
+        "fremont_bridge_sb": "11"
+    },
+    {
+        "date": "2017-06-14T18:00:00.000",
+        "fremont_bridge_nb": "463",
+        "fremont_bridge_sb": "143"
+    },
+    {
+        "date": "2017-01-06T02:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-05T08:00:00.000",
+        "fremont_bridge_nb": "646",
+        "fremont_bridge_sb": "361"
+    },
+    {
+        "date": "2017-06-24T10:00:00.000",
+        "fremont_bridge_nb": "182",
+        "fremont_bridge_sb": "101"
+    },
+    {
+        "date": "2017-06-08T15:00:00.000",
+        "fremont_bridge_nb": "84",
+        "fremont_bridge_sb": "41"
+    },
+    {
+        "date": "2017-01-25T03:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-07T11:00:00.000",
+        "fremont_bridge_nb": "106",
+        "fremont_bridge_sb": "51"
+    },
+    {
+        "date": "2017-06-29T14:00:00.000",
+        "fremont_bridge_nb": "122",
+        "fremont_bridge_sb": "59"
+    },
+    {
+        "date": "2017-06-10T09:00:00.000",
+        "fremont_bridge_nb": "134",
+        "fremont_bridge_sb": "83"
+    },
+    {
+        "date": "2017-06-26T00:00:00.000",
+        "fremont_bridge_nb": "10",
+        "fremont_bridge_sb": "3"
+    },
+    {
+        "date": "2017-06-28T23:00:00.000",
+        "fremont_bridge_nb": "18",
+        "fremont_bridge_sb": "7"
+    },
+    {
+        "date": "2017-06-29T13:00:00.000",
+        "fremont_bridge_nb": "140",
+        "fremont_bridge_sb": "63"
+    },
+    {
+        "date": "2017-06-10T18:00:00.000",
+        "fremont_bridge_nb": "214",
+        "fremont_bridge_sb": "108"
+    },
+    {
+        "date": "2017-06-21T20:00:00.000",
+        "fremont_bridge_nb": "179",
+        "fremont_bridge_sb": "69"
+    },
+    {
+        "date": "2017-01-07T04:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-05T20:00:00.000",
+        "fremont_bridge_nb": "137",
+        "fremont_bridge_sb": "56"
+    },
+    {
+        "date": "2017-06-01T20:00:00.000",
+        "fremont_bridge_nb": "142",
+        "fremont_bridge_sb": "60"
+    },
+    {
+        "date": "2017-06-02T19:00:00.000",
+        "fremont_bridge_nb": "197",
+        "fremont_bridge_sb": "84"
+    },
+    {
+        "date": "2017-06-29T00:00:00.000",
+        "fremont_bridge_nb": "7",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-06-18T14:00:00.000",
+        "fremont_bridge_nb": "164",
+        "fremont_bridge_sb": "81"
+    },
+    {
+        "date": "2017-06-13T12:00:00.000",
+        "fremont_bridge_nb": "67",
+        "fremont_bridge_sb": "32"
+    },
+    {
+        "date": "2017-06-25T02:00:00.000",
+        "fremont_bridge_nb": "8",
+        "fremont_bridge_sb": "4"
+    },
+    {
+        "date": "2017-06-12T22:00:00.000",
+        "fremont_bridge_nb": "42",
+        "fremont_bridge_sb": "25"
+    },
+    {
+        "date": "2017-06-25T05:00:00.000",
+        "fremont_bridge_nb": "12",
+        "fremont_bridge_sb": "9"
+    },
+    {
+        "date": "2017-06-19T13:00:00.000",
+        "fremont_bridge_nb": "90",
+        "fremont_bridge_sb": "43"
+    },
+    {
+        "date": "2017-06-26T04:00:00.000",
+        "fremont_bridge_nb": "2",
+        "fremont_bridge_sb": "1"
+    },
+    {
+        "date": "2017-06-10T07:00:00.000",
+        "fremont_bridge_nb": "69",
+        "fremont_bridge_sb": "38"
+    },
+    {
+        "date": "2017-06-09T02:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-27T15:00:00.000",
+        "fremont_bridge_nb": "157",
+        "fremont_bridge_sb": "69"
+    },
+    {
+        "date": "2017-06-13T14:00:00.000",
+        "fremont_bridge_nb": "90",
+        "fremont_bridge_sb": "35"
+    },
+    {
+        "date": "2017-06-12T01:00:00.000",
+        "fremont_bridge_nb": "3",
+        "fremont_bridge_sb": "1"
+    },
+    {
+        "date": "2017-06-25T07:00:00.000",
+        "fremont_bridge_nb": "73",
+        "fremont_bridge_sb": "39"
+    },
+    {
+        "date": "2017-06-15T01:00:00.000",
+        "fremont_bridge_nb": "5",
+        "fremont_bridge_sb": "1"
+    },
+    {
+        "date": "2017-06-18T15:00:00.000",
+        "fremont_bridge_nb": "136",
+        "fremont_bridge_sb": "70"
+    },
+    {
+        "date": "2017-01-10T03:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-19T14:00:00.000",
+        "fremont_bridge_nb": "98",
+        "fremont_bridge_sb": "46"
+    },
+    {
+        "date": "2017-06-12T16:00:00.000",
+        "fremont_bridge_nb": "320",
+        "fremont_bridge_sb": "81"
+    },
+    {
+        "date": "2017-06-10T06:00:00.000",
+        "fremont_bridge_nb": "26",
+        "fremont_bridge_sb": "13"
+    },
+    {
+        "date": "2017-06-11T06:00:00.000",
+        "fremont_bridge_nb": "22",
+        "fremont_bridge_sb": "12"
+    },
+    {
+        "date": "2017-06-14T17:00:00.000",
+        "fremont_bridge_nb": "754",
+        "fremont_bridge_sb": "184"
+    },
+    {
+        "date": "2017-06-22T00:00:00.000",
+        "fremont_bridge_nb": "10",
+        "fremont_bridge_sb": "4"
+    },
+    {
+        "date": "2017-06-14T07:00:00.000",
+        "fremont_bridge_nb": "487",
+        "fremont_bridge_sb": "286"
+    },
+    {
+        "date": "2017-06-04T04:00:00.000",
+        "fremont_bridge_nb": "8",
+        "fremont_bridge_sb": "4"
+    },
+    {
+        "date": "2017-06-07T12:00:00.000",
+        "fremont_bridge_nb": "97",
+        "fremont_bridge_sb": "49"
+    },
+    {
+        "date": "2017-06-06T10:00:00.000",
+        "fremont_bridge_nb": "136",
+        "fremont_bridge_sb": "68"
+    },
+    {
+        "date": "2017-01-07T03:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-29T07:00:00.000",
+        "fremont_bridge_nb": "430",
+        "fremont_bridge_sb": "250"
+    },
+    {
+        "date": "2017-06-24T21:00:00.000",
+        "fremont_bridge_nb": "69",
+        "fremont_bridge_sb": "27"
+    },
+    {
+        "date": "2017-06-28T19:00:00.000",
+        "fremont_bridge_nb": "290",
+        "fremont_bridge_sb": "100"
+    },
+    {
+        "date": "2017-01-20T02:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-11T01:00:00.000",
+        "fremont_bridge_nb": "6",
+        "fremont_bridge_sb": "3"
+    },
+    {
+        "date": "2017-06-20T05:00:00.000",
+        "fremont_bridge_nb": "44",
+        "fremont_bridge_sb": "30"
+    },
+    {
+        "date": "2017-06-19T22:00:00.000",
+        "fremont_bridge_nb": "49",
+        "fremont_bridge_sb": "13"
+    },
+    {
+        "date": "2017-06-19T03:00:00.000",
+        "fremont_bridge_nb": "3",
+        "fremont_bridge_sb": "1"
+    },
+    {
+        "date": "2017-06-08T03:00:00.000",
+        "fremont_bridge_nb": "1",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-17T06:00:00.000",
+        "fremont_bridge_nb": "32",
+        "fremont_bridge_sb": "15"
+    },
+    {
+        "date": "2017-06-14T20:00:00.000",
+        "fremont_bridge_nb": "161",
+        "fremont_bridge_sb": "74"
+    },
+    {
+        "date": "2017-06-15T20:00:00.000",
+        "fremont_bridge_nb": "45",
+        "fremont_bridge_sb": "12"
+    },
+    {
+        "date": "2017-06-01T00:00:00.000",
+        "fremont_bridge_nb": "17",
+        "fremont_bridge_sb": "10"
+    },
+    {
+        "date": "2017-06-07T20:00:00.000",
+        "fremont_bridge_nb": "172",
+        "fremont_bridge_sb": "85"
+    },
+    {
+        "date": "2017-06-27T18:00:00.000",
+        "fremont_bridge_nb": "502",
+        "fremont_bridge_sb": "142"
+    },
+    {
+        "date": "2017-06-19T02:00:00.000",
+        "fremont_bridge_nb": "1",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-23T05:00:00.000",
+        "fremont_bridge_nb": "40",
+        "fremont_bridge_sb": "28"
+    },
+    {
+        "date": "2015-11-08T02:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-02T01:00:00.000",
+        "fremont_bridge_nb": "4",
+        "fremont_bridge_sb": "3"
+    },
+    {
+        "date": "2017-06-29T05:00:00.000",
+        "fremont_bridge_nb": "53",
+        "fremont_bridge_sb": "36"
+    },
+    {
+        "date": "2017-06-11T17:00:00.000",
+        "fremont_bridge_nb": "173",
+        "fremont_bridge_sb": "67"
+    },
+    {
+        "date": "2017-06-08T16:00:00.000",
+        "fremont_bridge_nb": "203",
+        "fremont_bridge_sb": "61"
+    },
+    {
+        "date": "2017-06-01T19:00:00.000",
+        "fremont_bridge_nb": "204",
+        "fremont_bridge_sb": "75"
+    },
+    {
+        "date": "2017-06-19T09:00:00.000",
+        "fremont_bridge_nb": "284",
+        "fremont_bridge_sb": "130"
+    },
+    {
+        "date": "2017-06-11T20:00:00.000",
+        "fremont_bridge_nb": "74",
+        "fremont_bridge_sb": "34"
+    },
+    {
+        "date": "2017-06-21T18:00:00.000",
+        "fremont_bridge_nb": "483",
+        "fremont_bridge_sb": "134"
+    },
+    {
+        "date": "2017-06-30T13:00:00.000",
+        "fremont_bridge_nb": "124",
+        "fremont_bridge_sb": "46"
+    },
+    {
+        "date": "2017-06-24T22:00:00.000",
+        "fremont_bridge_nb": "39",
+        "fremont_bridge_sb": "19"
+    },
+    {
+        "date": "2017-06-05T13:00:00.000",
+        "fremont_bridge_nb": "97",
+        "fremont_bridge_sb": "50"
+    },
+    {
+        "date": "2017-06-12T20:00:00.000",
+        "fremont_bridge_nb": "109",
+        "fremont_bridge_sb": "51"
+    },
+    {
+        "date": "2017-06-25T13:00:00.000",
+        "fremont_bridge_nb": "166",
+        "fremont_bridge_sb": "71"
+    },
+    {
+        "date": "2017-06-13T23:00:00.000",
+        "fremont_bridge_nb": "18",
+        "fremont_bridge_sb": "5"
+    },
+    {
+        "date": "2017-06-25T15:00:00.000",
+        "fremont_bridge_nb": "145",
+        "fremont_bridge_sb": "83"
+    },
+    {
+        "date": "2017-06-27T13:00:00.000",
+        "fremont_bridge_nb": "94",
+        "fremont_bridge_sb": "49"
+    },
+    {
+        "date": "2017-06-23T01:00:00.000",
+        "fremont_bridge_nb": "6",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-30T10:00:00.000",
+        "fremont_bridge_nb": "157",
+        "fremont_bridge_sb": "76"
+    },
+    {
+        "date": "2017-06-14T21:00:00.000",
+        "fremont_bridge_nb": "80",
+        "fremont_bridge_sb": "32"
+    },
+    {
+        "date": "2017-06-28T08:00:00.000",
+        "fremont_bridge_nb": "599",
+        "fremont_bridge_sb": "343"
+    },
+    {
+        "date": "2017-06-27T10:00:00.000",
+        "fremont_bridge_nb": "139",
+        "fremont_bridge_sb": "74"
+    },
+    {
+        "date": "2017-06-02T13:00:00.000",
+        "fremont_bridge_nb": "117",
+        "fremont_bridge_sb": "47"
+    },
+    {
+        "date": "2017-06-24T19:00:00.000",
+        "fremont_bridge_nb": "101",
+        "fremont_bridge_sb": "41"
+    },
+    {
+        "date": "2017-06-20T14:00:00.000",
+        "fremont_bridge_nb": "76",
+        "fremont_bridge_sb": "22"
+    },
+    {
+        "date": "2017-06-18T12:00:00.000",
+        "fremont_bridge_nb": "130",
+        "fremont_bridge_sb": "55"
+    },
+    {
+        "date": "2017-06-03T08:00:00.000",
+        "fremont_bridge_nb": "113",
+        "fremont_bridge_sb": "64"
+    },
+    {
+        "date": "2017-06-16T00:00:00.000",
+        "fremont_bridge_nb": "4",
+        "fremont_bridge_sb": "3"
+    },
+    {
+        "date": "2017-06-24T02:00:00.000",
+        "fremont_bridge_nb": "14",
+        "fremont_bridge_sb": "9"
+    },
+    {
+        "date": "2017-06-22T15:00:00.000",
+        "fremont_bridge_nb": "200",
+        "fremont_bridge_sb": "81"
+    },
+    {
+        "date": "2017-06-28T14:00:00.000",
+        "fremont_bridge_nb": "91",
+        "fremont_bridge_sb": "44"
+    },
+    {
+        "date": "2017-06-11T23:00:00.000",
+        "fremont_bridge_nb": "16",
+        "fremont_bridge_sb": "9"
+    },
+    {
+        "date": "2017-06-23T03:00:00.000",
+        "fremont_bridge_nb": "3",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-06-01T03:00:00.000",
+        "fremont_bridge_nb": "2",
+        "fremont_bridge_sb": "1"
+    },
+    {
+        "date": "2017-06-30T16:00:00.000",
+        "fremont_bridge_nb": "417",
+        "fremont_bridge_sb": "115"
+    },
+    {
+        "date": "2017-06-10T13:00:00.000",
+        "fremont_bridge_nb": "195",
+        "fremont_bridge_sb": "100"
+    },
+    {
+        "date": "2017-06-03T16:00:00.000",
+        "fremont_bridge_nb": "144",
+        "fremont_bridge_sb": "76"
+    },
+    {
+        "date": "2017-06-18T18:00:00.000",
+        "fremont_bridge_nb": "93",
+        "fremont_bridge_sb": "51"
+    },
+    {
+        "date": "2017-06-10T08:00:00.000",
+        "fremont_bridge_nb": "99",
+        "fremont_bridge_sb": "51"
+    },
+    {
+        "date": "2017-06-23T08:00:00.000",
+        "fremont_bridge_nb": "594",
+        "fremont_bridge_sb": "332"
+    },
+    {
+        "date": "2017-06-15T04:00:00.000",
+        "fremont_bridge_nb": "5",
+        "fremont_bridge_sb": "3"
+    },
+    {
+        "date": "2017-06-28T13:00:00.000",
+        "fremont_bridge_nb": "85",
+        "fremont_bridge_sb": "41"
+    },
+    {
+        "date": "2017-06-06T11:00:00.000",
+        "fremont_bridge_nb": "121",
+        "fremont_bridge_sb": "58"
+    },
+    {
+        "date": "2017-06-02T08:00:00.000",
+        "fremont_bridge_nb": "522",
+        "fremont_bridge_sb": "296"
+    },
+    {
+        "date": "2017-06-15T09:00:00.000",
+        "fremont_bridge_nb": "180",
+        "fremont_bridge_sb": "100"
+    },
+    {
+        "date": "2017-06-26T16:00:00.000",
+        "fremont_bridge_nb": "328",
+        "fremont_bridge_sb": "86"
+    },
+    {
+        "date": "2017-06-19T17:00:00.000",
+        "fremont_bridge_nb": "714",
+        "fremont_bridge_sb": "158"
+    },
+    {
+        "date": "2017-06-02T09:00:00.000",
+        "fremont_bridge_nb": "275",
+        "fremont_bridge_sb": "141"
+    },
+    {
+        "date": "2017-06-07T10:00:00.000",
+        "fremont_bridge_nb": "159",
+        "fremont_bridge_sb": "73"
+    },
+    {
+        "date": "2017-06-22T10:00:00.000",
+        "fremont_bridge_nb": "149",
+        "fremont_bridge_sb": "71"
+    },
+    {
+        "date": "2017-06-15T03:00:00.000",
+        "fremont_bridge_nb": "4",
+        "fremont_bridge_sb": "3"
+    },
+    {
+        "date": "2017-06-24T23:00:00.000",
+        "fremont_bridge_nb": "32",
+        "fremont_bridge_sb": "11"
+    },
+    {
+        "date": "2017-06-14T00:00:00.000",
+        "fremont_bridge_nb": "8",
+        "fremont_bridge_sb": "3"
+    },
+    {
+        "date": "2017-06-21T12:00:00.000",
+        "fremont_bridge_nb": "101",
+        "fremont_bridge_sb": "48"
+    },
+    {
+        "date": "2017-06-24T03:00:00.000",
+        "fremont_bridge_nb": "4",
+        "fremont_bridge_sb": "3"
+    },
+    {
+        "date": "2017-06-04T15:00:00.000",
+        "fremont_bridge_nb": "176",
+        "fremont_bridge_sb": "73"
+    },
+    {
+        "date": "2017-06-17T22:00:00.000",
+        "fremont_bridge_nb": "30",
+        "fremont_bridge_sb": "16"
+    },
+    {
+        "date": "2017-06-17T20:00:00.000",
+        "fremont_bridge_nb": "48",
+        "fremont_bridge_sb": "19"
+    },
+    {
+        "date": "2017-06-10T16:00:00.000",
+        "fremont_bridge_nb": "230",
+        "fremont_bridge_sb": "148"
+    },
+    {
+        "date": "2017-06-18T03:00:00.000",
+        "fremont_bridge_nb": "3",
+        "fremont_bridge_sb": "1"
+    },
+    {
+        "date": "2017-06-21T16:00:00.000",
+        "fremont_bridge_nb": "393",
+        "fremont_bridge_sb": "103"
+    },
+    {
+        "date": "2017-06-25T12:00:00.000",
+        "fremont_bridge_nb": "209",
+        "fremont_bridge_sb": "105"
+    },
+    {
+        "date": "2017-06-24T05:00:00.000",
+        "fremont_bridge_nb": "17",
+        "fremont_bridge_sb": "11"
+    },
+    {
+        "date": "2017-06-11T03:00:00.000",
+        "fremont_bridge_nb": "3",
+        "fremont_bridge_sb": "1"
+    },
+    {
+        "date": "2017-06-07T03:00:00.000",
+        "fremont_bridge_nb": "3",
+        "fremont_bridge_sb": "3"
+    },
+    {
+        "date": "2017-06-22T04:00:00.000",
+        "fremont_bridge_nb": "11",
+        "fremont_bridge_sb": "6"
+    },
+    {
+        "date": "2017-06-13T07:00:00.000",
+        "fremont_bridge_nb": "333",
+        "fremont_bridge_sb": "186"
+    },
+    {
+        "date": "2017-01-31T02:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-01T18:00:00.000",
+        "fremont_bridge_nb": "416",
+        "fremont_bridge_sb": "128"
+    },
+    {
+        "date": "2017-06-25T04:00:00.000",
+        "fremont_bridge_nb": "3",
+        "fremont_bridge_sb": "3"
+    },
+    {
+        "date": "2017-06-22T17:00:00.000",
+        "fremont_bridge_nb": "743",
+        "fremont_bridge_sb": "178"
+    },
+    {
+        "date": "2017-06-13T05:00:00.000",
+        "fremont_bridge_nb": "43",
+        "fremont_bridge_sb": "29"
+    },
+    {
+        "date": "2017-06-13T16:00:00.000",
+        "fremont_bridge_nb": "278",
+        "fremont_bridge_sb": "95"
+    },
+    {
+        "date": "2017-06-15T07:00:00.000",
+        "fremont_bridge_nb": "241",
+        "fremont_bridge_sb": "128"
+    },
+    {
+        "date": "2017-06-02T20:00:00.000",
+        "fremont_bridge_nb": "123",
+        "fremont_bridge_sb": "57"
+    },
+    {
+        "date": "2017-06-10T12:00:00.000",
+        "fremont_bridge_nb": "185",
+        "fremont_bridge_sb": "84"
+    },
+    {
+        "date": "2017-06-10T14:00:00.000",
+        "fremont_bridge_nb": "237",
+        "fremont_bridge_sb": "126"
+    },
+    {
+        "date": "2017-06-13T17:00:00.000",
+        "fremont_bridge_nb": "568",
+        "fremont_bridge_sb": "124"
+    },
+    {
+        "date": "2017-06-04T02:00:00.000",
+        "fremont_bridge_nb": "4",
+        "fremont_bridge_sb": "1"
+    },
+    {
+        "date": "2017-06-21T04:00:00.000",
+        "fremont_bridge_nb": "4",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-06-28T15:00:00.000",
+        "fremont_bridge_nb": "151",
+        "fremont_bridge_sb": "64"
+    },
+    {
+        "date": "2017-06-11T22:00:00.000",
+        "fremont_bridge_nb": "29",
+        "fremont_bridge_sb": "10"
+    },
+    {
+        "date": "2017-06-17T19:00:00.000",
+        "fremont_bridge_nb": "87",
+        "fremont_bridge_sb": "43"
+    },
+    {
+        "date": "2017-06-11T13:00:00.000",
+        "fremont_bridge_nb": "237",
+        "fremont_bridge_sb": "136"
+    },
+    {
+        "date": "2017-06-20T23:00:00.000",
+        "fremont_bridge_nb": "23",
+        "fremont_bridge_sb": "6"
+    },
+    {
+        "date": "2017-06-25T21:00:00.000",
+        "fremont_bridge_nb": "59",
+        "fremont_bridge_sb": "32"
+    },
+    {
+        "date": "2017-06-06T08:00:00.000",
+        "fremont_bridge_nb": "747",
+        "fremont_bridge_sb": "418"
+    },
+    {
+        "date": "2017-06-08T20:00:00.000",
+        "fremont_bridge_nb": "103",
+        "fremont_bridge_sb": "45"
+    },
+    {
+        "date": "2017-06-05T01:00:00.000",
+        "fremont_bridge_nb": "4",
+        "fremont_bridge_sb": "3"
+    },
+    {
+        "date": "2017-06-24T04:00:00.000",
+        "fremont_bridge_nb": "5",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-06-28T09:00:00.000",
+        "fremont_bridge_nb": "304",
+        "fremont_bridge_sb": "144"
+    },
+    {
+        "date": "2017-06-09T20:00:00.000",
+        "fremont_bridge_nb": "69",
+        "fremont_bridge_sb": "22"
+    },
+    {
+        "date": "2017-06-10T22:00:00.000",
+        "fremont_bridge_nb": "48",
+        "fremont_bridge_sb": "23"
+    },
+    {
+        "date": "2017-01-19T03:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-08T14:00:00.000",
+        "fremont_bridge_nb": "50",
+        "fremont_bridge_sb": "18"
+    },
+    {
+        "date": "2017-06-25T03:00:00.000",
+        "fremont_bridge_nb": "3",
+        "fremont_bridge_sb": "1"
+    },
+    {
+        "date": "2017-06-01T02:00:00.000",
+        "fremont_bridge_nb": "3",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-06-30T14:00:00.000",
+        "fremont_bridge_nb": "183",
+        "fremont_bridge_sb": "75"
+    },
+    {
+        "date": "2017-06-16T18:00:00.000",
+        "fremont_bridge_nb": "384",
+        "fremont_bridge_sb": "113"
+    },
+    {
+        "date": "2017-06-01T08:00:00.000",
+        "fremont_bridge_nb": "467",
+        "fremont_bridge_sb": "257"
+    },
+    {
+        "date": "2017-06-18T02:00:00.000",
+        "fremont_bridge_nb": "6",
+        "fremont_bridge_sb": "3"
+    },
+    {
+        "date": "2017-06-09T16:00:00.000",
+        "fremont_bridge_nb": "349",
+        "fremont_bridge_sb": "83"
+    },
+    {
+        "date": "2017-06-15T15:00:00.000",
+        "fremont_bridge_nb": "65",
+        "fremont_bridge_sb": "19"
+    },
+    {
+        "date": "2017-06-22T16:00:00.000",
+        "fremont_bridge_nb": "398",
+        "fremont_bridge_sb": "118"
+    },
+    {
+        "date": "2017-06-03T10:00:00.000",
+        "fremont_bridge_nb": "120",
+        "fremont_bridge_sb": "64"
+    },
+    {
+        "date": "2017-06-11T08:00:00.000",
+        "fremont_bridge_nb": "66",
+        "fremont_bridge_sb": "44"
+    },
+    {
+        "date": "2017-06-30T09:00:00.000",
+        "fremont_bridge_nb": "295",
+        "fremont_bridge_sb": "135"
+    },
+    {
+        "date": "2017-06-03T19:00:00.000",
+        "fremont_bridge_nb": "85",
+        "fremont_bridge_sb": "45"
+    },
+    {
+        "date": "2017-06-10T05:00:00.000",
+        "fremont_bridge_nb": "14",
+        "fremont_bridge_sb": "5"
+    },
+    {
+        "date": "2017-06-06T12:00:00.000",
+        "fremont_bridge_nb": "110",
+        "fremont_bridge_sb": "53"
+    },
+    {
+        "date": "2017-06-12T08:00:00.000",
+        "fremont_bridge_nb": "594",
+        "fremont_bridge_sb": "330"
+    },
+    {
+        "date": "2017-06-04T21:00:00.000",
+        "fremont_bridge_nb": "28",
+        "fremont_bridge_sb": "10"
+    },
+    {
+        "date": "2017-06-18T11:00:00.000",
+        "fremont_bridge_nb": "136",
+        "fremont_bridge_sb": "75"
+    },
+    {
+        "date": "2017-06-03T11:00:00.000",
+        "fremont_bridge_nb": "154",
+        "fremont_bridge_sb": "78"
+    },
+    {
+        "date": "2017-06-16T02:00:00.000",
+        "fremont_bridge_nb": "2",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-23T04:00:00.000",
+        "fremont_bridge_nb": "10",
+        "fremont_bridge_sb": "5"
+    },
+    {
+        "date": "2017-06-05T19:00:00.000",
+        "fremont_bridge_nb": "276",
+        "fremont_bridge_sb": "92"
+    },
+    {
+        "date": "2017-06-26T23:00:00.000",
+        "fremont_bridge_nb": "20",
+        "fremont_bridge_sb": "10"
+    },
+    {
+        "date": "2017-06-17T00:00:00.000",
+        "fremont_bridge_nb": "25",
+        "fremont_bridge_sb": "7"
+    },
+    {
+        "date": "2017-06-15T21:00:00.000",
+        "fremont_bridge_nb": "24",
+        "fremont_bridge_sb": "7"
+    },
+    {
+        "date": "2017-06-12T02:00:00.000",
+        "fremont_bridge_nb": "3",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-06-16T08:00:00.000",
+        "fremont_bridge_nb": "446",
+        "fremont_bridge_sb": "256"
+    },
+    {
+        "date": "2017-06-04T20:00:00.000",
+        "fremont_bridge_nb": "48",
+        "fremont_bridge_sb": "31"
+    },
+    {
+        "date": "2017-06-20T12:00:00.000",
+        "fremont_bridge_nb": "74",
+        "fremont_bridge_sb": "33"
+    },
+    {
+        "date": "2017-06-05T10:00:00.000",
+        "fremont_bridge_nb": "117",
+        "fremont_bridge_sb": "64"
+    },
+    {
+        "date": "2017-06-02T10:00:00.000",
+        "fremont_bridge_nb": "120",
+        "fremont_bridge_sb": "63"
+    },
+    {
+        "date": "2017-06-13T03:00:00.000",
+        "fremont_bridge_nb": "3",
+        "fremont_bridge_sb": "1"
+    },
+    {
+        "date": "2017-06-23T17:00:00.000",
+        "fremont_bridge_nb": "621",
+        "fremont_bridge_sb": "170"
+    },
+    {
+        "date": "2017-06-30T18:00:00.000",
+        "fremont_bridge_nb": "361",
+        "fremont_bridge_sb": "112"
+    },
+    {
+        "date": "2017-06-26T02:00:00.000",
+        "fremont_bridge_nb": "2",
+        "fremont_bridge_sb": "1"
+    },
+    {
+        "date": "2017-06-12T03:00:00.000",
+        "fremont_bridge_nb": "2",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-19T10:00:00.000",
+        "fremont_bridge_nb": "111",
+        "fremont_bridge_sb": "49"
+    },
+    {
+        "date": "2017-06-21T10:00:00.000",
+        "fremont_bridge_nb": "118",
+        "fremont_bridge_sb": "60"
+    },
+    {
+        "date": "2017-06-28T04:00:00.000",
+        "fremont_bridge_nb": "9",
+        "fremont_bridge_sb": "4"
+    },
+    {
+        "date": "2017-06-22T01:00:00.000",
+        "fremont_bridge_nb": "9",
+        "fremont_bridge_sb": "6"
+    },
+    {
+        "date": "2017-06-24T11:00:00.000",
+        "fremont_bridge_nb": "207",
+        "fremont_bridge_sb": "113"
+    },
+    {
+        "date": "2017-06-17T08:00:00.000",
+        "fremont_bridge_nb": "101",
+        "fremont_bridge_sb": "52"
+    },
+    {
+        "date": "2017-06-22T07:00:00.000",
+        "fremont_bridge_nb": "483",
+        "fremont_bridge_sb": "266"
+    },
+    {
+        "date": "2017-06-12T12:00:00.000",
+        "fremont_bridge_nb": "74",
+        "fremont_bridge_sb": "37"
+    },
+    {
+        "date": "2017-06-14T03:00:00.000",
+        "fremont_bridge_nb": "2",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-06-26T20:00:00.000",
+        "fremont_bridge_nb": "137",
+        "fremont_bridge_sb": "51"
+    },
+    {
+        "date": "2017-06-27T07:00:00.000",
+        "fremont_bridge_nb": "515",
+        "fremont_bridge_sb": "292"
+    },
+    {
+        "date": "2017-06-22T13:00:00.000",
+        "fremont_bridge_nb": "99",
+        "fremont_bridge_sb": "54"
+    },
+    {
+        "date": "2017-06-04T17:00:00.000",
+        "fremont_bridge_nb": "146",
+        "fremont_bridge_sb": "61"
+    },
+    {
+        "date": "2017-06-12T13:00:00.000",
+        "fremont_bridge_nb": "62",
+        "fremont_bridge_sb": "31"
+    },
+    {
+        "date": "2017-06-24T12:00:00.000",
+        "fremont_bridge_nb": "200",
+        "fremont_bridge_sb": "95"
+    },
+    {
+        "date": "2017-06-29T18:00:00.000",
+        "fremont_bridge_nb": "498",
+        "fremont_bridge_sb": "143"
+    },
+    {
+        "date": "2017-06-22T05:00:00.000",
+        "fremont_bridge_nb": "51",
+        "fremont_bridge_sb": "38"
+    },
+    {
+        "date": "2017-06-07T21:00:00.000",
+        "fremont_bridge_nb": "99",
+        "fremont_bridge_sb": "49"
+    },
+    {
+        "date": "2017-06-03T15:00:00.000",
+        "fremont_bridge_nb": "163",
+        "fremont_bridge_sb": "85"
+    },
+    {
+        "date": "2017-06-27T05:00:00.000",
+        "fremont_bridge_nb": "52",
+        "fremont_bridge_sb": "35"
+    },
+    {
+        "date": "2017-06-23T12:00:00.000",
+        "fremont_bridge_nb": "128",
+        "fremont_bridge_sb": "70"
+    },
+    {
+        "date": "2017-06-15T06:00:00.000",
+        "fremont_bridge_nb": "97",
+        "fremont_bridge_sb": "55"
+    },
+    {
+        "date": "2017-06-14T05:00:00.000",
+        "fremont_bridge_nb": "55",
+        "fremont_bridge_sb": "36"
+    },
+    {
+        "date": "2017-06-21T13:00:00.000",
+        "fremont_bridge_nb": "78",
+        "fremont_bridge_sb": "35"
+    },
+    {
+        "date": "2017-06-07T04:00:00.000",
+        "fremont_bridge_nb": "9",
+        "fremont_bridge_sb": "5"
+    },
+    {
+        "date": "2017-06-15T23:00:00.000",
+        "fremont_bridge_nb": "5",
+        "fremont_bridge_sb": "1"
+    },
+    {
+        "date": "2017-06-17T10:00:00.000",
+        "fremont_bridge_nb": "182",
+        "fremont_bridge_sb": "74"
+    },
+    {
+        "date": "2017-06-19T04:00:00.000",
+        "fremont_bridge_nb": "7",
+        "fremont_bridge_sb": "3"
+    },
+    {
+        "date": "2017-06-20T11:00:00.000",
+        "fremont_bridge_nb": "79",
+        "fremont_bridge_sb": "31"
+    },
+    {
+        "date": "2017-06-15T00:00:00.000",
+        "fremont_bridge_nb": "6",
+        "fremont_bridge_sb": "1"
+    },
+    {
+        "date": "2017-06-10T03:00:00.000",
+        "fremont_bridge_nb": "5",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-26T09:00:00.000",
+        "fremont_bridge_nb": "317",
+        "fremont_bridge_sb": "153"
+    },
+    {
+        "date": "2017-01-08T04:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-03T12:00:00.000",
+        "fremont_bridge_nb": "150",
+        "fremont_bridge_sb": "79"
+    },
+    {
+        "date": "2017-06-18T21:00:00.000",
+        "fremont_bridge_nb": "40",
+        "fremont_bridge_sb": "14"
+    },
+    {
+        "date": "2017-06-06T14:00:00.000",
+        "fremont_bridge_nb": "125",
+        "fremont_bridge_sb": "56"
+    },
+    {
+        "date": "2017-06-01T12:00:00.000",
+        "fremont_bridge_nb": "59",
+        "fremont_bridge_sb": "25"
+    },
+    {
+        "date": "2017-06-03T20:00:00.000",
+        "fremont_bridge_nb": "95",
+        "fremont_bridge_sb": "42"
+    },
+    {
+        "date": "2017-06-14T19:00:00.000",
+        "fremont_bridge_nb": "256",
+        "fremont_bridge_sb": "88"
+    },
+    {
+        "date": "2017-06-03T01:00:00.000",
+        "fremont_bridge_nb": "7",
+        "fremont_bridge_sb": "1"
+    },
+    {
+        "date": "2017-06-27T19:00:00.000",
+        "fremont_bridge_nb": "267",
+        "fremont_bridge_sb": "95"
+    },
+    {
+        "date": "2017-06-15T05:00:00.000",
+        "fremont_bridge_nb": "39",
+        "fremont_bridge_sb": "26"
+    },
+    {
+        "date": "2017-06-21T00:00:00.000",
+        "fremont_bridge_nb": "5",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-06-25T01:00:00.000",
+        "fremont_bridge_nb": "10",
+        "fremont_bridge_sb": "3"
+    },
+    {
+        "date": "2017-06-24T17:00:00.000",
+        "fremont_bridge_nb": "142",
+        "fremont_bridge_sb": "67"
+    },
+    {
+        "date": "2017-06-04T11:00:00.000",
+        "fremont_bridge_nb": "148",
+        "fremont_bridge_sb": "74"
+    },
+    {
+        "date": "2017-06-01T06:00:00.000",
+        "fremont_bridge_nb": "162",
+        "fremont_bridge_sb": "96"
+    },
+    {
+        "date": "2017-06-22T23:00:00.000",
+        "fremont_bridge_nb": "32",
+        "fremont_bridge_sb": "14"
+    },
+    {
+        "date": "2017-06-24T07:00:00.000",
+        "fremont_bridge_nb": "88",
+        "fremont_bridge_sb": "41"
+    },
+    {
+        "date": "2017-06-22T21:00:00.000",
+        "fremont_bridge_nb": "102",
+        "fremont_bridge_sb": "43"
+    },
+    {
+        "date": "2017-06-26T10:00:00.000",
+        "fremont_bridge_nb": "110",
+        "fremont_bridge_sb": "55"
+    },
+    {
+        "date": "2017-06-19T11:00:00.000",
+        "fremont_bridge_nb": "75",
+        "fremont_bridge_sb": "39"
+    },
+    {
+        "date": "2017-06-13T08:00:00.000",
+        "fremont_bridge_nb": "501",
+        "fremont_bridge_sb": "279"
+    },
+    {
+        "date": "2017-06-16T22:00:00.000",
+        "fremont_bridge_nb": "42",
+        "fremont_bridge_sb": "16"
+    },
+    {
+        "date": "2017-06-27T01:00:00.000",
+        "fremont_bridge_nb": "7",
+        "fremont_bridge_sb": "6"
+    },
+    {
+        "date": "2017-06-20T08:00:00.000",
+        "fremont_bridge_nb": "501",
+        "fremont_bridge_sb": "282"
+    },
+    {
+        "date": "2017-06-26T21:00:00.000",
+        "fremont_bridge_nb": "97",
+        "fremont_bridge_sb": "43"
+    },
+    {
+        "date": "2017-01-11T02:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-23T07:00:00.000",
+        "fremont_bridge_nb": "394",
+        "fremont_bridge_sb": "215"
+    },
+    {
+        "date": "2017-06-23T02:00:00.000",
+        "fremont_bridge_nb": "5",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-06-04T05:00:00.000",
+        "fremont_bridge_nb": "7",
+        "fremont_bridge_sb": "4"
+    },
+    {
+        "date": "2017-06-21T02:00:00.000",
+        "fremont_bridge_nb": "3",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-06-20T02:00:00.000",
+        "fremont_bridge_nb": "3",
+        "fremont_bridge_sb": "1"
+    },
+    {
+        "date": "2017-06-15T11:00:00.000",
+        "fremont_bridge_nb": "37",
+        "fremont_bridge_sb": "16"
+    },
+    {
+        "date": "2017-06-15T22:00:00.000",
+        "fremont_bridge_nb": "20",
+        "fremont_bridge_sb": "7"
+    },
+    {
+        "date": "2017-06-16T14:00:00.000",
+        "fremont_bridge_nb": "139",
+        "fremont_bridge_sb": "49"
+    },
+    {
+        "date": "2017-06-29T21:00:00.000",
+        "fremont_bridge_nb": "136",
+        "fremont_bridge_sb": "72"
+    },
+    {
+        "date": "2017-06-11T12:00:00.000",
+        "fremont_bridge_nb": "165",
+        "fremont_bridge_sb": "84"
+    },
+    {
+        "date": "2017-06-23T06:00:00.000",
+        "fremont_bridge_nb": "153",
+        "fremont_bridge_sb": "90"
+    },
+    {
+        "date": "2017-06-21T06:00:00.000",
+        "fremont_bridge_nb": "188",
+        "fremont_bridge_sb": "101"
+    },
+    {
+        "date": "2017-06-30T00:00:00.000",
+        "fremont_bridge_nb": "16",
+        "fremont_bridge_sb": "4"
+    },
+    {
+        "date": "2017-06-13T01:00:00.000",
+        "fremont_bridge_nb": "3",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-06-04T16:00:00.000",
+        "fremont_bridge_nb": "220",
+        "fremont_bridge_sb": "126"
+    },
+    {
+        "date": "2017-06-05T12:00:00.000",
+        "fremont_bridge_nb": "87",
+        "fremont_bridge_sb": "47"
+    },
+    {
+        "date": "2017-06-28T21:00:00.000",
+        "fremont_bridge_nb": "114",
+        "fremont_bridge_sb": "53"
+    },
+    {
+        "date": "2017-06-20T04:00:00.000",
+        "fremont_bridge_nb": "12",
+        "fremont_bridge_sb": "8"
+    },
+    {
+        "date": "2017-01-16T03:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-05T09:00:00.000",
+        "fremont_bridge_nb": "313",
+        "fremont_bridge_sb": "165"
+    },
+    {
+        "date": "2017-06-07T00:00:00.000",
+        "fremont_bridge_nb": "10",
+        "fremont_bridge_sb": "5"
+    },
+    {
+        "date": "2017-06-03T00:00:00.000",
+        "fremont_bridge_nb": "22",
+        "fremont_bridge_sb": "5"
+    },
+    {
+        "date": "2017-06-22T22:00:00.000",
+        "fremont_bridge_nb": "88",
+        "fremont_bridge_sb": "46"
+    },
+    {
+        "date": "2017-01-18T02:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-14T01:00:00.000",
+        "fremont_bridge_nb": "2",
+        "fremont_bridge_sb": "1"
+    },
+    {
+        "date": "2017-06-18T19:00:00.000",
+        "fremont_bridge_nb": "85",
+        "fremont_bridge_sb": "52"
+    },
+    {
+        "date": "2017-06-22T02:00:00.000",
+        "fremont_bridge_nb": "3",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-08T01:00:00.000",
+        "fremont_bridge_nb": "5",
+        "fremont_bridge_sb": "3"
+    },
+    {
+        "date": "2017-06-08T13:00:00.000",
+        "fremont_bridge_nb": "32",
+        "fremont_bridge_sb": "17"
+    },
+    {
+        "date": "2017-06-19T15:00:00.000",
+        "fremont_bridge_nb": "130",
+        "fremont_bridge_sb": "63"
+    },
+    {
+        "date": "2017-06-28T16:00:00.000",
+        "fremont_bridge_nb": "353",
+        "fremont_bridge_sb": "112"
+    },
+    {
+        "date": "2017-06-16T19:00:00.000",
+        "fremont_bridge_nb": "172",
+        "fremont_bridge_sb": "71"
+    },
+    {
+        "date": "2017-06-11T19:00:00.000",
+        "fremont_bridge_nb": "106",
+        "fremont_bridge_sb": "57"
+    },
+    {
+        "date": "2017-06-17T21:00:00.000",
+        "fremont_bridge_nb": "51",
+        "fremont_bridge_sb": "21"
+    },
+    {
+        "date": "2017-06-12T19:00:00.000",
+        "fremont_bridge_nb": "205",
+        "fremont_bridge_sb": "78"
+    },
+    {
+        "date": "2017-06-29T15:00:00.000",
+        "fremont_bridge_nb": "221",
+        "fremont_bridge_sb": "94"
+    },
+    {
+        "date": "2017-06-29T17:00:00.000",
+        "fremont_bridge_nb": "749",
+        "fremont_bridge_sb": "173"
+    },
+    {
+        "date": "2017-06-30T08:00:00.000",
+        "fremont_bridge_nb": "540",
+        "fremont_bridge_sb": "302"
+    },
+    {
+        "date": "2017-06-30T02:00:00.000",
+        "fremont_bridge_nb": "4",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-06-14T12:00:00.000",
+        "fremont_bridge_nb": "92",
+        "fremont_bridge_sb": "47"
+    },
+    {
+        "date": "2017-01-03T03:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-28T00:00:00.000",
+        "fremont_bridge_nb": "12",
+        "fremont_bridge_sb": "4"
+    },
+    {
+        "date": "2017-06-16T23:00:00.000",
+        "fremont_bridge_nb": "40",
+        "fremont_bridge_sb": "25"
+    },
+    {
+        "date": "2017-06-05T00:00:00.000",
+        "fremont_bridge_nb": "5",
+        "fremont_bridge_sb": "3"
+    },
+    {
+        "date": "2017-06-29T10:00:00.000",
+        "fremont_bridge_nb": "143",
+        "fremont_bridge_sb": "58"
+    },
+    {
+        "date": "2017-06-21T08:00:00.000",
+        "fremont_bridge_nb": "609",
+        "fremont_bridge_sb": "337"
+    },
+    {
+        "date": "2017-06-10T21:00:00.000",
+        "fremont_bridge_nb": "57",
+        "fremont_bridge_sb": "35"
+    },
+    {
+        "date": "2017-06-06T03:00:00.000",
+        "fremont_bridge_nb": "2",
+        "fremont_bridge_sb": "1"
+    },
+    {
+        "date": "2017-06-11T11:00:00.000",
+        "fremont_bridge_nb": "168",
+        "fremont_bridge_sb": "82"
+    },
+    {
+        "date": "2017-06-24T16:00:00.000",
+        "fremont_bridge_nb": "144",
+        "fremont_bridge_sb": "60"
+    },
+    {
+        "date": "2017-06-26T11:00:00.000",
+        "fremont_bridge_nb": "81",
+        "fremont_bridge_sb": "40"
+    },
+    {
+        "date": "2017-06-21T22:00:00.000",
+        "fremont_bridge_nb": "81",
+        "fremont_bridge_sb": "31"
+    },
+    {
+        "date": "2015-11-08T04:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-07T16:00:00.000",
+        "fremont_bridge_nb": "385",
+        "fremont_bridge_sb": "98"
+    },
+    {
+        "date": "2017-06-05T23:00:00.000",
+        "fremont_bridge_nb": "31",
+        "fremont_bridge_sb": "16"
+    },
+    {
+        "date": "2017-06-29T09:00:00.000",
+        "fremont_bridge_nb": "358",
+        "fremont_bridge_sb": "185"
+    },
+    {
+        "date": "2017-06-02T21:00:00.000",
+        "fremont_bridge_nb": "84",
+        "fremont_bridge_sb": "29"
+    },
+    {
+        "date": "2017-06-17T23:00:00.000",
+        "fremont_bridge_nb": "16",
+        "fremont_bridge_sb": "7"
+    },
+    {
+        "date": "2017-06-16T16:00:00.000",
+        "fremont_bridge_nb": "374",
+        "fremont_bridge_sb": "108"
+    },
+    {
+        "date": "2017-06-14T13:00:00.000",
+        "fremont_bridge_nb": "98",
+        "fremont_bridge_sb": "48"
+    },
+    {
+        "date": "2017-06-07T05:00:00.000",
+        "fremont_bridge_nb": "57",
+        "fremont_bridge_sb": "39"
+    },
+    {
+        "date": "2017-06-15T19:00:00.000",
+        "fremont_bridge_nb": "93",
+        "fremont_bridge_sb": "25"
+    },
+    {
+        "date": "2017-06-12T11:00:00.000",
+        "fremont_bridge_nb": "84",
+        "fremont_bridge_sb": "43"
+    },
+    {
+        "date": "2017-06-27T11:00:00.000",
+        "fremont_bridge_nb": "88",
+        "fremont_bridge_sb": "43"
+    },
+    {
+        "date": "2017-06-14T04:00:00.000",
+        "fremont_bridge_nb": "10",
+        "fremont_bridge_sb": "6"
+    },
+    {
+        "date": "2017-06-14T15:00:00.000",
+        "fremont_bridge_nb": "168",
+        "fremont_bridge_sb": "65"
+    },
+    {
+        "date": "2017-06-28T22:00:00.000",
+        "fremont_bridge_nb": "52",
+        "fremont_bridge_sb": "23"
+    },
+    {
+        "date": "2017-06-09T00:00:00.000",
+        "fremont_bridge_nb": "11",
+        "fremont_bridge_sb": "4"
+    },
+    {
+        "date": "2017-06-24T01:00:00.000",
+        "fremont_bridge_nb": "10",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-06-08T17:00:00.000",
+        "fremont_bridge_nb": "467",
+        "fremont_bridge_sb": "123"
+    },
+    {
+        "date": "2017-06-30T01:00:00.000",
+        "fremont_bridge_nb": "14",
+        "fremont_bridge_sb": "7"
+    },
+    {
+        "date": "2017-06-24T18:00:00.000",
+        "fremont_bridge_nb": "138",
+        "fremont_bridge_sb": "69"
+    },
+    {
+        "date": "2017-06-22T11:00:00.000",
+        "fremont_bridge_nb": "122",
+        "fremont_bridge_sb": "68"
+    },
+    {
+        "date": "2017-06-26T03:00:00.000",
+        "fremont_bridge_nb": "2",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-14T16:00:00.000",
+        "fremont_bridge_nb": "318",
+        "fremont_bridge_sb": "88"
+    },
+    {
+        "date": "2017-06-17T11:00:00.000",
+        "fremont_bridge_nb": "213",
+        "fremont_bridge_sb": "91"
+    },
+    {
+        "date": "2017-06-17T02:00:00.000",
+        "fremont_bridge_nb": "10",
+        "fremont_bridge_sb": "7"
+    },
+    {
+        "date": "2017-06-05T18:00:00.000",
+        "fremont_bridge_nb": "497",
+        "fremont_bridge_sb": "136"
+    },
+    {
+        "date": "2017-06-16T11:00:00.000",
+        "fremont_bridge_nb": "97",
+        "fremont_bridge_sb": "41"
+    },
+    {
+        "date": "2017-06-27T12:00:00.000",
+        "fremont_bridge_nb": "82",
+        "fremont_bridge_sb": "37"
+    },
+    {
+        "date": "2017-06-05T15:00:00.000",
+        "fremont_bridge_nb": "177",
+        "fremont_bridge_sb": "76"
+    },
+    {
+        "date": "2017-06-09T13:00:00.000",
+        "fremont_bridge_nb": "98",
+        "fremont_bridge_sb": "56"
+    },
+    {
+        "date": "2017-06-14T06:00:00.000",
+        "fremont_bridge_nb": "186",
+        "fremont_bridge_sb": "111"
+    },
+    {
+        "date": "2017-06-19T18:00:00.000",
+        "fremont_bridge_nb": "488",
+        "fremont_bridge_sb": "139"
+    },
+    {
+        "date": "2017-06-25T00:00:00.000",
+        "fremont_bridge_nb": "19",
+        "fremont_bridge_sb": "4"
+    },
+    {
+        "date": "2017-06-29T23:00:00.000",
+        "fremont_bridge_nb": "26",
+        "fremont_bridge_sb": "14"
+    },
+    {
+        "date": "2017-06-28T06:00:00.000",
+        "fremont_bridge_nb": "190",
+        "fremont_bridge_sb": "116"
+    },
+    {
+        "date": "2017-06-27T21:00:00.000",
+        "fremont_bridge_nb": "98",
+        "fremont_bridge_sb": "48"
+    },
+    {
+        "date": "2017-06-20T09:00:00.000",
+        "fremont_bridge_nb": "282",
+        "fremont_bridge_sb": "148"
+    },
+    {
+        "date": "2017-06-09T07:00:00.000",
+        "fremont_bridge_nb": "327",
+        "fremont_bridge_sb": "192"
+    },
+    {
+        "date": "2017-06-29T20:00:00.000",
+        "fremont_bridge_nb": "162",
+        "fremont_bridge_sb": "64"
+    },
+    {
+        "date": "2017-06-19T20:00:00.000",
+        "fremont_bridge_nb": "161",
+        "fremont_bridge_sb": "63"
+    },
+    {
+        "date": "2015-11-10T01:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-17T13:00:00.000",
+        "fremont_bridge_nb": "30",
+        "fremont_bridge_sb": "16"
+    },
+    {
+        "date": "2017-06-08T08:00:00.000",
+        "fremont_bridge_nb": "300",
+        "fremont_bridge_sb": "173"
+    },
+    {
+        "date": "2017-06-09T19:00:00.000",
+        "fremont_bridge_nb": "149",
+        "fremont_bridge_sb": "56"
+    },
+    {
+        "date": "2017-06-22T09:00:00.000",
+        "fremont_bridge_nb": "336",
+        "fremont_bridge_sb": "177"
+    },
+    {
+        "date": "2017-06-01T15:00:00.000",
+        "fremont_bridge_nb": "148",
+        "fremont_bridge_sb": "65"
+    },
+    {
+        "date": "2017-06-12T10:00:00.000",
+        "fremont_bridge_nb": "139",
+        "fremont_bridge_sb": "79"
+    },
+    {
+        "date": "2017-06-16T05:00:00.000",
+        "fremont_bridge_nb": "39",
+        "fremont_bridge_sb": "26"
+    },
+    {
+        "date": "2017-06-28T07:00:00.000",
+        "fremont_bridge_nb": "473",
+        "fremont_bridge_sb": "275"
+    },
+    {
+        "date": "2017-06-08T09:00:00.000",
+        "fremont_bridge_nb": "173",
+        "fremont_bridge_sb": "85"
+    },
+    {
+        "date": "2017-06-18T16:00:00.000",
+        "fremont_bridge_nb": "110",
+        "fremont_bridge_sb": "58"
+    },
+    {
+        "date": "2017-06-25T18:00:00.000",
+        "fremont_bridge_nb": "95",
+        "fremont_bridge_sb": "50"
+    },
+    {
+        "date": "2017-06-11T00:00:00.000",
+        "fremont_bridge_nb": "31",
+        "fremont_bridge_sb": "7"
+    },
+    {
+        "date": "2017-06-24T20:00:00.000",
+        "fremont_bridge_nb": "110",
+        "fremont_bridge_sb": "43"
+    },
+    {
+        "date": "2017-06-30T23:00:00.000",
+        "fremont_bridge_nb": "36",
+        "fremont_bridge_sb": "13"
+    },
+    {
+        "date": "2017-06-16T09:00:00.000",
+        "fremont_bridge_nb": "243",
+        "fremont_bridge_sb": "126"
+    },
+    {
+        "date": "2017-06-10T04:00:00.000",
+        "fremont_bridge_nb": "6",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-06-12T21:00:00.000",
+        "fremont_bridge_nb": "54",
+        "fremont_bridge_sb": "12"
+    },
+    {
+        "date": "2017-06-19T08:00:00.000",
+        "fremont_bridge_nb": "608",
+        "fremont_bridge_sb": "327"
+    },
+    {
+        "date": "2017-06-30T20:00:00.000",
+        "fremont_bridge_nb": "119",
+        "fremont_bridge_sb": "43"
+    },
+    {
+        "date": "2017-06-19T07:00:00.000",
+        "fremont_bridge_nb": "441",
+        "fremont_bridge_sb": "268"
+    },
+    {
+        "date": "2017-06-03T14:00:00.000",
+        "fremont_bridge_nb": "141",
+        "fremont_bridge_sb": "72"
+    },
+    {
+        "date": "2017-06-25T10:00:00.000",
+        "fremont_bridge_nb": "184",
+        "fremont_bridge_sb": "99"
+    },
+    {
+        "date": "2017-06-19T23:00:00.000",
+        "fremont_bridge_nb": "24",
+        "fremont_bridge_sb": "7"
+    },
+    {
+        "date": "2017-06-15T13:00:00.000",
+        "fremont_bridge_nb": "24",
+        "fremont_bridge_sb": "8"
+    },
+    {
+        "date": "2017-06-01T04:00:00.000",
+        "fremont_bridge_nb": "9",
+        "fremont_bridge_sb": "6"
+    },
+    {
+        "date": "2017-06-03T21:00:00.000",
+        "fremont_bridge_nb": "43",
+        "fremont_bridge_sb": "19"
+    },
+    {
+        "date": "2017-06-16T06:00:00.000",
+        "fremont_bridge_nb": "120",
+        "fremont_bridge_sb": "73"
+    },
+    {
+        "date": "2017-06-03T04:00:00.000",
+        "fremont_bridge_nb": "6",
+        "fremont_bridge_sb": "3"
+    },
+    {
+        "date": "2017-06-07T02:00:00.000",
+        "fremont_bridge_nb": "5",
+        "fremont_bridge_sb": "3"
+    },
+    {
+        "date": "2017-06-13T06:00:00.000",
+        "fremont_bridge_nb": "149",
+        "fremont_bridge_sb": "85"
+    },
+    {
+        "date": "2017-06-14T22:00:00.000",
+        "fremont_bridge_nb": "41",
+        "fremont_bridge_sb": "15"
+    },
+    {
+        "date": "2017-06-26T07:00:00.000",
+        "fremont_bridge_nb": "492",
+        "fremont_bridge_sb": "299"
+    },
+    {
+        "date": "2017-06-17T12:00:00.000",
+        "fremont_bridge_nb": "48",
+        "fremont_bridge_sb": "22"
+    },
+    {
+        "date": "2017-06-21T07:00:00.000",
+        "fremont_bridge_nb": "467",
+        "fremont_bridge_sb": "291"
+    },
+    {
+        "date": "2017-06-30T21:00:00.000",
+        "fremont_bridge_nb": "87",
+        "fremont_bridge_sb": "38"
+    },
+    {
+        "date": "2017-06-02T16:00:00.000",
+        "fremont_bridge_nb": "402",
+        "fremont_bridge_sb": "113"
+    },
+    {
+        "date": "2017-06-08T10:00:00.000",
+        "fremont_bridge_nb": "65",
+        "fremont_bridge_sb": "35"
+    },
+    {
+        "date": "2017-06-10T19:00:00.000",
+        "fremont_bridge_nb": "108",
+        "fremont_bridge_sb": "59"
+    },
+    {
+        "date": "2017-06-19T00:00:00.000",
+        "fremont_bridge_nb": "3",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-06-13T20:00:00.000",
+        "fremont_bridge_nb": "98",
+        "fremont_bridge_sb": "33"
+    },
+    {
+        "date": "2017-06-15T17:00:00.000",
+        "fremont_bridge_nb": "358",
+        "fremont_bridge_sb": "78"
+    },
+    {
+        "date": "2017-06-19T12:00:00.000",
+        "fremont_bridge_nb": "92",
+        "fremont_bridge_sb": "47"
+    },
+    {
+        "date": "2017-06-07T13:00:00.000",
+        "fremont_bridge_nb": "108",
+        "fremont_bridge_sb": "51"
+    },
+    {
+        "date": "2017-06-19T16:00:00.000",
+        "fremont_bridge_nb": "349",
+        "fremont_bridge_sb": "87"
+    },
+    {
+        "date": "2017-06-08T12:00:00.000",
+        "fremont_bridge_nb": "37",
+        "fremont_bridge_sb": "21"
+    },
+    {
+        "date": "2017-06-04T18:00:00.000",
+        "fremont_bridge_nb": "133",
+        "fremont_bridge_sb": "65"
+    },
+    {
+        "date": "2017-06-24T00:00:00.000",
+        "fremont_bridge_nb": "21",
+        "fremont_bridge_sb": "7"
+    },
+    {
+        "date": "2017-06-22T03:00:00.000",
+        "fremont_bridge_nb": "3",
+        "fremont_bridge_sb": "1"
+    },
+    {
+        "date": "2017-06-25T16:00:00.000",
+        "fremont_bridge_nb": "210",
+        "fremont_bridge_sb": "82"
+    },
+    {
+        "date": "2017-06-26T12:00:00.000",
+        "fremont_bridge_nb": "80",
+        "fremont_bridge_sb": "35"
+    },
+    {
+        "date": "2017-06-09T05:00:00.000",
+        "fremont_bridge_nb": "39",
+        "fremont_bridge_sb": "28"
+    },
+    {
+        "date": "2017-06-08T05:00:00.000",
+        "fremont_bridge_nb": "32",
+        "fremont_bridge_sb": "22"
+    },
+    {
+        "date": "2017-06-13T15:00:00.000",
+        "fremont_bridge_nb": "123",
+        "fremont_bridge_sb": "46"
+    },
+    {
+        "date": "2017-06-21T03:00:00.000",
+        "fremont_bridge_nb": "2",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-01-14T04:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-09T23:00:00.000",
+        "fremont_bridge_nb": "38",
+        "fremont_bridge_sb": "14"
+    },
+    {
+        "date": "2017-01-22T04:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-27T02:00:00.000",
+        "fremont_bridge_nb": "6",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-06-13T11:00:00.000",
+        "fremont_bridge_nb": "53",
+        "fremont_bridge_sb": "23"
+    },
+    {
+        "date": "2017-06-02T02:00:00.000",
+        "fremont_bridge_nb": "6",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-06-02T05:00:00.000",
+        "fremont_bridge_nb": "50",
+        "fremont_bridge_sb": "40"
+    },
+    {
+        "date": "2017-06-09T09:00:00.000",
+        "fremont_bridge_nb": "282",
+        "fremont_bridge_sb": "152"
+    },
+    {
+        "date": "2017-06-22T06:00:00.000",
+        "fremont_bridge_nb": "230",
+        "fremont_bridge_sb": "139"
+    },
+    {
+        "date": "2017-06-18T10:00:00.000",
+        "fremont_bridge_nb": "103",
+        "fremont_bridge_sb": "48"
+    },
+    {
+        "date": "2017-01-10T01:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-05T16:00:00.000",
+        "fremont_bridge_nb": "400",
+        "fremont_bridge_sb": "116"
+    },
+    {
+        "date": "2017-06-07T17:00:00.000",
+        "fremont_bridge_nb": "822",
+        "fremont_bridge_sb": "181"
+    },
+    {
+        "date": "2017-06-08T04:00:00.000",
+        "fremont_bridge_nb": "6",
+        "fremont_bridge_sb": "3"
+    },
+    {
+        "date": "2017-06-01T01:00:00.000",
+        "fremont_bridge_nb": "5",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-06-27T08:00:00.000",
+        "fremont_bridge_nb": "606",
+        "fremont_bridge_sb": "327"
+    },
+    {
+        "date": "2017-06-20T16:00:00.000",
+        "fremont_bridge_nb": "315",
+        "fremont_bridge_sb": "87"
+    },
+    {
+        "date": "2017-06-11T15:00:00.000",
+        "fremont_bridge_nb": "187",
+        "fremont_bridge_sb": "83"
+    },
+    {
+        "date": "2017-06-06T22:00:00.000",
+        "fremont_bridge_nb": "52",
+        "fremont_bridge_sb": "18"
+    },
+    {
+        "date": "2017-06-21T17:00:00.000",
+        "fremont_bridge_nb": "766",
+        "fremont_bridge_sb": "206"
+    },
+    {
+        "date": "2017-06-14T09:00:00.000",
+        "fremont_bridge_nb": "293",
+        "fremont_bridge_sb": "131"
+    },
+    {
+        "date": "2017-06-15T14:00:00.000",
+        "fremont_bridge_nb": "29",
+        "fremont_bridge_sb": "12"
+    },
+    {
+        "date": "2017-06-01T21:00:00.000",
+        "fremont_bridge_nb": "91",
+        "fremont_bridge_sb": "42"
+    },
+    {
+        "date": "2017-06-10T23:00:00.000",
+        "fremont_bridge_nb": "20",
+        "fremont_bridge_sb": "8"
+    },
+    {
+        "date": "2017-06-03T06:00:00.000",
+        "fremont_bridge_nb": "27",
+        "fremont_bridge_sb": "11"
+    },
+    {
+        "date": "2017-06-25T08:00:00.000",
+        "fremont_bridge_nb": "106",
+        "fremont_bridge_sb": "67"
+    },
+    {
+        "date": "2017-06-14T02:00:00.000",
+        "fremont_bridge_nb": "3",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-06-06T23:00:00.000",
+        "fremont_bridge_nb": "21",
+        "fremont_bridge_sb": "9"
+    },
+    {
+        "date": "2017-06-26T17:00:00.000",
+        "fremont_bridge_nb": "729",
+        "fremont_bridge_sb": "170"
+    },
+    {
+        "date": "2017-06-27T22:00:00.000",
+        "fremont_bridge_nb": "55",
+        "fremont_bridge_sb": "27"
+    },
+    {
+        "date": "2017-06-28T10:00:00.000",
+        "fremont_bridge_nb": "141",
+        "fremont_bridge_sb": "66"
+    },
+    {
+        "date": "2017-06-18T23:00:00.000",
+        "fremont_bridge_nb": "21",
+        "fremont_bridge_sb": "5"
+    },
+    {
+        "date": "2017-06-14T14:00:00.000",
+        "fremont_bridge_nb": "124",
+        "fremont_bridge_sb": "48"
+    },
+    {
+        "date": "2017-06-06T17:00:00.000",
+        "fremont_bridge_nb": "854",
+        "fremont_bridge_sb": "209"
+    },
+    {
+        "date": "2017-06-01T23:00:00.000",
+        "fremont_bridge_nb": "16",
+        "fremont_bridge_sb": "10"
+    },
+    {
+        "date": "2017-01-05T03:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-12T00:00:00.000",
+        "fremont_bridge_nb": "2",
+        "fremont_bridge_sb": "1"
+    },
+    {
+        "date": "2017-06-16T15:00:00.000",
+        "fremont_bridge_nb": "181",
+        "fremont_bridge_sb": "70"
+    },
+    {
+        "date": "2017-06-28T02:00:00.000",
+        "fremont_bridge_nb": "2",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-07T14:00:00.000",
+        "fremont_bridge_nb": "124",
+        "fremont_bridge_sb": "55"
+    },
+    {
+        "date": "2017-06-18T22:00:00.000",
+        "fremont_bridge_nb": "26",
+        "fremont_bridge_sb": "12"
+    },
+    {
+        "date": "2017-06-02T17:00:00.000",
+        "fremont_bridge_nb": "610",
+        "fremont_bridge_sb": "151"
+    },
+    {
+        "date": "2017-06-01T14:00:00.000",
+        "fremont_bridge_nb": "110",
+        "fremont_bridge_sb": "51"
+    },
+    {
+        "date": "2017-06-30T22:00:00.000",
+        "fremont_bridge_nb": "58",
+        "fremont_bridge_sb": "22"
+    },
+    {
+        "date": "2017-06-19T05:00:00.000",
+        "fremont_bridge_nb": "40",
+        "fremont_bridge_sb": "30"
+    },
+    {
+        "date": "2017-06-09T01:00:00.000",
+        "fremont_bridge_nb": "6",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-01-06T03:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-17T16:00:00.000",
+        "fremont_bridge_nb": "160",
+        "fremont_bridge_sb": "63"
+    },
+    {
+        "date": "2017-06-06T19:00:00.000",
+        "fremont_bridge_nb": "328",
+        "fremont_bridge_sb": "102"
+    },
+    {
+        "date": "2017-06-28T20:00:00.000",
+        "fremont_bridge_nb": "190",
+        "fremont_bridge_sb": "72"
+    },
+    {
+        "date": "2017-06-13T18:00:00.000",
+        "fremont_bridge_nb": "382",
+        "fremont_bridge_sb": "106"
+    },
+    {
+        "date": "2017-06-10T02:00:00.000",
+        "fremont_bridge_nb": "10",
+        "fremont_bridge_sb": "4"
+    },
+    {
+        "date": "2012-11-01T03:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-14T11:00:00.000",
+        "fremont_bridge_nb": "87",
+        "fremont_bridge_sb": "39"
+    },
+    {
+        "date": "2017-06-19T21:00:00.000",
+        "fremont_bridge_nb": "86",
+        "fremont_bridge_sb": "48"
+    },
+    {
+        "date": "2017-06-25T22:00:00.000",
+        "fremont_bridge_nb": "27",
+        "fremont_bridge_sb": "9"
+    },
+    {
+        "date": "2017-06-05T22:00:00.000",
+        "fremont_bridge_nb": "32",
+        "fremont_bridge_sb": "15"
+    },
+    {
+        "date": "2017-06-06T16:00:00.000",
+        "fremont_bridge_nb": "407",
+        "fremont_bridge_sb": "117"
+    },
+    {
+        "date": "2017-06-04T06:00:00.000",
+        "fremont_bridge_nb": "13",
+        "fremont_bridge_sb": "5"
+    },
+    {
+        "date": "2017-06-21T11:00:00.000",
+        "fremont_bridge_nb": "76",
+        "fremont_bridge_sb": "30"
+    },
+    {
+        "date": "2017-06-15T02:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-03T17:00:00.000",
+        "fremont_bridge_nb": "157",
+        "fremont_bridge_sb": "78"
+    },
+    {
+        "date": "2017-06-23T16:00:00.000",
+        "fremont_bridge_nb": "460",
+        "fremont_bridge_sb": "127"
+    },
+    {
+        "date": "2017-06-29T04:00:00.000",
+        "fremont_bridge_nb": "4",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-01-09T03:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-20T17:00:00.000",
+        "fremont_bridge_nb": "621",
+        "fremont_bridge_sb": "141"
+    },
+    {
+        "date": "2017-06-05T04:00:00.000",
+        "fremont_bridge_nb": "10",
+        "fremont_bridge_sb": "7"
+    },
+    {
+        "date": "2017-06-07T06:00:00.000",
+        "fremont_bridge_nb": "199",
+        "fremont_bridge_sb": "116"
+    },
+    {
+        "date": "2017-06-08T06:00:00.000",
+        "fremont_bridge_nb": "93",
+        "fremont_bridge_sb": "53"
+    },
+    {
+        "date": "2017-06-13T13:00:00.000",
+        "fremont_bridge_nb": "67",
+        "fremont_bridge_sb": "32"
+    },
+    {
+        "date": "2017-06-04T22:00:00.000",
+        "fremont_bridge_nb": "27",
+        "fremont_bridge_sb": "7"
+    },
+    {
+        "date": "2017-06-29T08:00:00.000",
+        "fremont_bridge_nb": "583",
+        "fremont_bridge_sb": "328"
+    },
+    {
+        "date": "2017-06-28T03:00:00.000",
+        "fremont_bridge_nb": "3",
+        "fremont_bridge_sb": "1"
+    },
+    {
+        "date": "2017-06-05T05:00:00.000",
+        "fremont_bridge_nb": "55",
+        "fremont_bridge_sb": "39"
+    },
+    {
+        "date": "2017-06-13T02:00:00.000",
+        "fremont_bridge_nb": "2",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-06-18T09:00:00.000",
+        "fremont_bridge_nb": "109",
+        "fremont_bridge_sb": "48"
+    },
+    {
+        "date": "2017-06-05T11:00:00.000",
+        "fremont_bridge_nb": "96",
+        "fremont_bridge_sb": "56"
+    },
+    {
+        "date": "2017-06-23T22:00:00.000",
+        "fremont_bridge_nb": "46",
+        "fremont_bridge_sb": "18"
+    },
+    {
+        "date": "2017-06-04T10:00:00.000",
+        "fremont_bridge_nb": "117",
+        "fremont_bridge_sb": "62"
+    },
+    {
+        "date": "2017-06-17T05:00:00.000",
+        "fremont_bridge_nb": "14",
+        "fremont_bridge_sb": "9"
+    },
+    {
+        "date": "2017-06-19T06:00:00.000",
+        "fremont_bridge_nb": "159",
+        "fremont_bridge_sb": "101"
+    },
+    {
+        "date": "2017-06-16T12:00:00.000",
+        "fremont_bridge_nb": "93",
+        "fremont_bridge_sb": "51"
+    },
+    {
+        "date": "2017-06-11T07:00:00.000",
+        "fremont_bridge_nb": "43",
+        "fremont_bridge_sb": "20"
+    },
+    {
+        "date": "2017-06-03T22:00:00.000",
+        "fremont_bridge_nb": "48",
+        "fremont_bridge_sb": "27"
+    },
+    {
+        "date": "2017-06-06T15:00:00.000",
+        "fremont_bridge_nb": "198",
+        "fremont_bridge_sb": "87"
+    },
+    {
+        "date": "2017-06-20T19:00:00.000",
+        "fremont_bridge_nb": "240",
+        "fremont_bridge_sb": "80"
+    },
+    {
+        "date": "2017-01-04T02:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-01-28T03:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-07-10T01:00:00.000",
+        "fremont_bridge_nb": "6",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-07-09T03:00:00.000",
+        "fremont_bridge_nb": "1",
+        "fremont_bridge_sb": "4"
+    },
+    {
+        "date": "2017-07-09T21:00:00.000",
+        "fremont_bridge_nb": "27",
+        "fremont_bridge_sb": "38"
+    },
+    {
+        "date": "2017-07-04T00:00:00.000",
+        "fremont_bridge_nb": "5",
+        "fremont_bridge_sb": "5"
+    },
+    {
+        "date": "2017-07-08T06:00:00.000",
+        "fremont_bridge_nb": "23",
+        "fremont_bridge_sb": "16"
+    },
+    {
+        "date": "2017-07-16T13:00:00.000",
+        "fremont_bridge_nb": "93",
+        "fremont_bridge_sb": "89"
+    },
+    {
+        "date": "2017-07-29T00:00:00.000",
+        "fremont_bridge_nb": "11",
+        "fremont_bridge_sb": "19"
+    },
+    {
+        "date": "2015-12-26T02:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-07-18T17:00:00.000",
+        "fremont_bridge_nb": "198",
+        "fremont_bridge_sb": "617"
+    },
+    {
+        "date": "2017-07-07T15:00:00.000",
+        "fremont_bridge_nb": "69",
+        "fremont_bridge_sb": "160"
+    },
+    {
+        "date": "2017-07-27T09:00:00.000",
+        "fremont_bridge_nb": "130",
+        "fremont_bridge_sb": "126"
+    },
+    {
+        "date": "2017-07-07T11:00:00.000",
+        "fremont_bridge_nb": "52",
+        "fremont_bridge_sb": "57"
+    },
+    {
+        "date": "2017-07-28T01:00:00.000",
+        "fremont_bridge_nb": "4",
+        "fremont_bridge_sb": "4"
+    },
+    {
+        "date": "2017-07-29T17:00:00.000",
+        "fremont_bridge_nb": "71",
+        "fremont_bridge_sb": "90"
+    },
+    {
+        "date": "2017-07-29T13:00:00.000",
+        "fremont_bridge_nb": "102",
+        "fremont_bridge_sb": "122"
+    },
+    {
+        "date": "2017-07-23T14:00:00.000",
+        "fremont_bridge_nb": "99",
+        "fremont_bridge_sb": "88"
+    },
+    {
+        "date": "2017-07-19T06:00:00.000",
+        "fremont_bridge_nb": "111",
+        "fremont_bridge_sb": "92"
+    },
+    {
+        "date": "2017-07-26T00:00:00.000",
+        "fremont_bridge_nb": "6",
+        "fremont_bridge_sb": "11"
+    },
+    {
+        "date": "2017-07-20T02:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-07-04T20:00:00.000",
+        "fremont_bridge_nb": "63",
+        "fremont_bridge_sb": "86"
+    },
+    {
+        "date": "2017-07-03T04:00:00.000",
+        "fremont_bridge_nb": "5",
+        "fremont_bridge_sb": "7"
+    },
+    {
+        "date": "2017-07-07T02:00:00.000",
+        "fremont_bridge_nb": "2",
+        "fremont_bridge_sb": "5"
+    },
+    {
+        "date": "2017-07-12T19:00:00.000",
+        "fremont_bridge_nb": "102",
+        "fremont_bridge_sb": "209"
+    },
+    {
+        "date": "2017-07-11T17:00:00.000",
+        "fremont_bridge_nb": "194",
+        "fremont_bridge_sb": "640"
+    },
+    {
+        "date": "2017-07-31T23:00:00.000",
+        "fremont_bridge_nb": "12",
+        "fremont_bridge_sb": "26"
+    },
+    {
+        "date": "2017-07-26T19:00:00.000",
+        "fremont_bridge_nb": "93",
+        "fremont_bridge_sb": "204"
+    },
+    {
+        "date": "2017-07-27T07:00:00.000",
+        "fremont_bridge_nb": "184",
+        "fremont_bridge_sb": "151"
+    },
+    {
+        "date": "2017-07-27T18:00:00.000",
+        "fremont_bridge_nb": "127",
+        "fremont_bridge_sb": "290"
+    },
+    {
+        "date": "2017-07-10T12:00:00.000",
+        "fremont_bridge_nb": "50",
+        "fremont_bridge_sb": "48"
+    },
+    {
+        "date": "2017-07-06T04:00:00.000",
+        "fremont_bridge_nb": "6",
+        "fremont_bridge_sb": "5"
+    },
+    {
+        "date": "2017-07-08T09:00:00.000",
+        "fremont_bridge_nb": "84",
+        "fremont_bridge_sb": "72"
+    },
+    {
+        "date": "2017-07-28T16:00:00.000",
+        "fremont_bridge_nb": "91",
+        "fremont_bridge_sb": "294"
+    },
+    {
+        "date": "2017-07-12T20:00:00.000",
+        "fremont_bridge_nb": "83",
+        "fremont_bridge_sb": "153"
+    },
+    {
+        "date": "2017-07-09T22:00:00.000",
+        "fremont_bridge_nb": "6",
+        "fremont_bridge_sb": "22"
+    },
+    {
+        "date": "2017-07-25T12:00:00.000",
+        "fremont_bridge_nb": "49",
+        "fremont_bridge_sb": "59"
+    },
+    {
+        "date": "2017-07-09T02:00:00.000",
+        "fremont_bridge_nb": "3",
+        "fremont_bridge_sb": "6"
+    },
+    {
+        "date": "2017-07-04T17:00:00.000",
+        "fremont_bridge_nb": "89",
+        "fremont_bridge_sb": "124"
+    },
+    {
+        "date": "2017-07-09T16:00:00.000",
+        "fremont_bridge_nb": "68",
+        "fremont_bridge_sb": "99"
+    },
+    {
+        "date": "2017-07-14T22:00:00.000",
+        "fremont_bridge_nb": "20",
+        "fremont_bridge_sb": "28"
+    },
+    {
+        "date": "2017-07-26T22:00:00.000",
+        "fremont_bridge_nb": "38",
+        "fremont_bridge_sb": "47"
+    },
+    {
+        "date": "2017-07-25T20:00:00.000",
+        "fremont_bridge_nb": "72",
+        "fremont_bridge_sb": "113"
+    },
+    {
+        "date": "2017-07-28T04:00:00.000",
+        "fremont_bridge_nb": "6",
+        "fremont_bridge_sb": "5"
+    },
+    {
+        "date": "2017-07-15T15:00:00.000",
+        "fremont_bridge_nb": "74",
+        "fremont_bridge_sb": "112"
+    },
+    {
+        "date": "2017-07-03T05:00:00.000",
+        "fremont_bridge_nb": "29",
+        "fremont_bridge_sb": "9"
+    },
+    {
+        "date": "2017-07-29T02:00:00.000",
+        "fremont_bridge_nb": "9",
+        "fremont_bridge_sb": "3"
+    },
+    {
+        "date": "2017-07-27T01:00:00.000",
+        "fremont_bridge_nb": "7",
+        "fremont_bridge_sb": "7"
+    },
+    {
+        "date": "2017-07-10T16:00:00.000",
+        "fremont_bridge_nb": "126",
+        "fremont_bridge_sb": "264"
+    },
+    {
+        "date": "2017-07-11T14:00:00.000",
+        "fremont_bridge_nb": "67",
+        "fremont_bridge_sb": "56"
+    },
+    {
+        "date": "2017-07-15T16:00:00.000",
+        "fremont_bridge_nb": "72",
+        "fremont_bridge_sb": "81"
+    },
+    {
+        "date": "2017-07-30T21:00:00.000",
+        "fremont_bridge_nb": "18",
+        "fremont_bridge_sb": "34"
+    },
+    {
+        "date": "2017-07-19T17:00:00.000",
+        "fremont_bridge_nb": "182",
+        "fremont_bridge_sb": "589"
+    },
+    {
+        "date": "2017-07-26T15:00:00.000",
+        "fremont_bridge_nb": "75",
+        "fremont_bridge_sb": "119"
+    },
+    {
+        "date": "2017-07-25T14:00:00.000",
+        "fremont_bridge_nb": "69",
+        "fremont_bridge_sb": "81"
+    },
+    {
+        "date": "2017-07-26T18:00:00.000",
+        "fremont_bridge_nb": "167",
+        "fremont_bridge_sb": "384"
+    },
+    {
+        "date": "2017-07-18T06:00:00.000",
+        "fremont_bridge_nb": "111",
+        "fremont_bridge_sb": "87"
+    },
+    {
+        "date": "2017-07-13T05:00:00.000",
+        "fremont_bridge_nb": "36",
+        "fremont_bridge_sb": "14"
+    },
+    {
+        "date": "2017-07-01T02:00:00.000",
+        "fremont_bridge_nb": "4",
+        "fremont_bridge_sb": "6"
+    },
+    {
+        "date": "2017-07-19T16:00:00.000",
+        "fremont_bridge_nb": "110",
+        "fremont_bridge_sb": "302"
+    },
+    {
+        "date": "2017-07-06T10:00:00.000",
+        "fremont_bridge_nb": "58",
+        "fremont_bridge_sb": "84"
+    },
+    {
+        "date": "2017-07-13T10:00:00.000",
+        "fremont_bridge_nb": "64",
+        "fremont_bridge_sb": "63"
+    },
+    {
+        "date": "2017-07-25T19:00:00.000",
+        "fremont_bridge_nb": "107",
+        "fremont_bridge_sb": "226"
+    },
+    {
+        "date": "2017-07-27T20:00:00.000",
+        "fremont_bridge_nb": "72",
+        "fremont_bridge_sb": "97"
+    },
+    {
+        "date": "2017-07-12T00:00:00.000",
+        "fremont_bridge_nb": "3",
+        "fremont_bridge_sb": "10"
+    },
+    {
+        "date": "2017-07-19T09:00:00.000",
+        "fremont_bridge_nb": "148",
+        "fremont_bridge_sb": "181"
+    },
+    {
+        "date": "2017-07-21T02:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "3"
+    },
+    {
+        "date": "2017-07-11T09:00:00.000",
+        "fremont_bridge_nb": "177",
+        "fremont_bridge_sb": "194"
+    },
+    {
+        "date": "2017-07-09T15:00:00.000",
+        "fremont_bridge_nb": "74",
+        "fremont_bridge_sb": "87"
+    },
+    {
+        "date": "2017-07-13T01:00:00.000",
+        "fremont_bridge_nb": "1",
+        "fremont_bridge_sb": "1"
+    },
+    {
+        "date": "2017-07-23T00:00:00.000",
+        "fremont_bridge_nb": "12",
+        "fremont_bridge_sb": "21"
+    },
+    {
+        "date": "2017-07-21T08:00:00.000",
+        "fremont_bridge_nb": "289",
+        "fremont_bridge_sb": "230"
+    },
+    {
+        "date": "2017-07-29T20:00:00.000",
+        "fremont_bridge_nb": "49",
+        "fremont_bridge_sb": "41"
+    },
+    {
+        "date": "2017-07-06T06:00:00.000",
+        "fremont_bridge_nb": "111",
+        "fremont_bridge_sb": "85"
+    },
+    {
+        "date": "2017-07-05T12:00:00.000",
+        "fremont_bridge_nb": "54",
+        "fremont_bridge_sb": "40"
+    },
+    {
+        "date": "2017-07-27T10:00:00.000",
+        "fremont_bridge_nb": "63",
+        "fremont_bridge_sb": "65"
+    },
+    {
+        "date": "2017-07-16T16:00:00.000",
+        "fremont_bridge_nb": "68",
+        "fremont_bridge_sb": "95"
+    },
+    {
+        "date": "2017-07-02T03:00:00.000",
+        "fremont_bridge_nb": "1",
+        "fremont_bridge_sb": "1"
+    },
+    {
+        "date": "2017-07-14T01:00:00.000",
+        "fremont_bridge_nb": "3",
+        "fremont_bridge_sb": "3"
+    },
+    {
+        "date": "2017-07-09T07:00:00.000",
+        "fremont_bridge_nb": "21",
+        "fremont_bridge_sb": "22"
+    },
+    {
+        "date": "2017-07-27T11:00:00.000",
+        "fremont_bridge_nb": "41",
+        "fremont_bridge_sb": "44"
+    },
+    {
+        "date": "2017-07-09T05:00:00.000",
+        "fremont_bridge_nb": "6",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-07-06T09:00:00.000",
+        "fremont_bridge_nb": "177",
+        "fremont_bridge_sb": "169"
+    },
+    {
+        "date": "2017-07-29T05:00:00.000",
+        "fremont_bridge_nb": "6",
+        "fremont_bridge_sb": "6"
+    },
+    {
+        "date": "2017-07-13T14:00:00.000",
+        "fremont_bridge_nb": "40",
+        "fremont_bridge_sb": "74"
+    },
+    {
+        "date": "2017-07-03T00:00:00.000",
+        "fremont_bridge_nb": "4",
+        "fremont_bridge_sb": "4"
+    },
+    {
+        "date": "2017-07-26T02:00:00.000",
+        "fremont_bridge_nb": "2",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-07-08T20:00:00.000",
+        "fremont_bridge_nb": "47",
+        "fremont_bridge_sb": "56"
+    },
+    {
+        "date": "2017-07-18T09:00:00.000",
+        "fremont_bridge_nb": "178",
+        "fremont_bridge_sb": "167"
+    },
+    {
+        "date": "2017-07-28T13:00:00.000",
+        "fremont_bridge_nb": "47",
+        "fremont_bridge_sb": "67"
+    },
+    {
+        "date": "2017-07-05T11:00:00.000",
+        "fremont_bridge_nb": "42",
+        "fremont_bridge_sb": "57"
+    },
+    {
+        "date": "2017-07-21T17:00:00.000",
+        "fremont_bridge_nb": "156",
+        "fremont_bridge_sb": "439"
+    },
+    {
+        "date": "2017-07-02T14:00:00.000",
+        "fremont_bridge_nb": "94",
+        "fremont_bridge_sb": "72"
+    },
+    {
+        "date": "2017-07-18T11:00:00.000",
+        "fremont_bridge_nb": "63",
+        "fremont_bridge_sb": "44"
+    },
+    {
+        "date": "2017-07-18T22:00:00.000",
+        "fremont_bridge_nb": "24",
+        "fremont_bridge_sb": "43"
+    },
+    {
+        "date": "2017-07-22T12:00:00.000",
+        "fremont_bridge_nb": "103",
+        "fremont_bridge_sb": "97"
+    },
+    {
+        "date": "2017-07-21T00:00:00.000",
+        "fremont_bridge_nb": "5",
+        "fremont_bridge_sb": "6"
+    },
+    {
+        "date": "2017-07-02T22:00:00.000",
+        "fremont_bridge_nb": "13",
+        "fremont_bridge_sb": "21"
+    },
+    {
+        "date": "2017-07-14T10:00:00.000",
+        "fremont_bridge_nb": "73",
+        "fremont_bridge_sb": "84"
+    },
+    {
+        "date": "2017-07-02T12:00:00.000",
+        "fremont_bridge_nb": "107",
+        "fremont_bridge_sb": "76"
+    },
+    {
+        "date": "2017-07-03T15:00:00.000",
+        "fremont_bridge_nb": "76",
+        "fremont_bridge_sb": "169"
+    },
+    {
+        "date": "2017-07-11T07:00:00.000",
+        "fremont_bridge_nb": "273",
+        "fremont_bridge_sb": "208"
+    },
+    {
+        "date": "2017-07-10T11:00:00.000",
+        "fremont_bridge_nb": "43",
+        "fremont_bridge_sb": "42"
+    },
+    {
+        "date": "2017-07-12T08:00:00.000",
+        "fremont_bridge_nb": "373",
+        "fremont_bridge_sb": "326"
+    },
+    {
+        "date": "2017-07-28T11:00:00.000",
+        "fremont_bridge_nb": "58",
+        "fremont_bridge_sb": "59"
+    },
+    {
+        "date": "2017-07-13T07:00:00.000",
+        "fremont_bridge_nb": "255",
+        "fremont_bridge_sb": "178"
+    },
+    {
+        "date": "2017-07-29T19:00:00.000",
+        "fremont_bridge_nb": "52",
+        "fremont_bridge_sb": "47"
+    },
+    {
+        "date": "2017-07-30T02:00:00.000",
+        "fremont_bridge_nb": "3",
+        "fremont_bridge_sb": "5"
+    },
+    {
+        "date": "2017-07-04T18:00:00.000",
+        "fremont_bridge_nb": "86",
+        "fremont_bridge_sb": "121"
+    },
+    {
+        "date": "2015-12-23T02:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-07-25T15:00:00.000",
+        "fremont_bridge_nb": "77",
+        "fremont_bridge_sb": "93"
+    },
+    {
+        "date": "2017-07-24T12:00:00.000",
+        "fremont_bridge_nb": "46",
+        "fremont_bridge_sb": "55"
+    },
+    {
+        "date": "2017-07-06T19:00:00.000",
+        "fremont_bridge_nb": "109",
+        "fremont_bridge_sb": "208"
+    },
+    {
+        "date": "2017-07-03T21:00:00.000",
+        "fremont_bridge_nb": "30",
+        "fremont_bridge_sb": "35"
+    },
+    {
+        "date": "2017-07-04T15:00:00.000",
+        "fremont_bridge_nb": "95",
+        "fremont_bridge_sb": "126"
+    },
+    {
+        "date": "2015-12-31T03:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-07-23T18:00:00.000",
+        "fremont_bridge_nb": "54",
+        "fremont_bridge_sb": "68"
+    },
+    {
+        "date": "2017-07-26T21:00:00.000",
+        "fremont_bridge_nb": "52",
+        "fremont_bridge_sb": "63"
+    },
+    {
+        "date": "2015-12-26T03:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-07-23T19:00:00.000",
+        "fremont_bridge_nb": "51",
+        "fremont_bridge_sb": "60"
+    },
+    {
+        "date": "2017-07-01T03:00:00.000",
+        "fremont_bridge_nb": "3",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-07-08T08:00:00.000",
+        "fremont_bridge_nb": "65",
+        "fremont_bridge_sb": "70"
+    },
+    {
+        "date": "2017-07-20T19:00:00.000",
+        "fremont_bridge_nb": "88",
+        "fremont_bridge_sb": "178"
+    },
+    {
+        "date": "2017-07-23T06:00:00.000",
+        "fremont_bridge_nb": "12",
+        "fremont_bridge_sb": "13"
+    },
+    {
+        "date": "2017-07-20T07:00:00.000",
+        "fremont_bridge_nb": "243",
+        "fremont_bridge_sb": "194"
+    },
+    {
+        "date": "2017-07-05T13:00:00.000",
+        "fremont_bridge_nb": "57",
+        "fremont_bridge_sb": "63"
+    },
+    {
+        "date": "2017-07-06T17:00:00.000",
+        "fremont_bridge_nb": "176",
+        "fremont_bridge_sb": "588"
+    },
+    {
+        "date": "2017-07-14T12:00:00.000",
+        "fremont_bridge_nb": "65",
+        "fremont_bridge_sb": "70"
+    },
+    {
+        "date": "2017-07-13T02:00:00.000",
+        "fremont_bridge_nb": "1",
+        "fremont_bridge_sb": "1"
+    },
+    {
+        "date": "2017-07-29T16:00:00.000",
+        "fremont_bridge_nb": "91",
+        "fremont_bridge_sb": "90"
+    },
+    {
+        "date": "2017-07-16T14:00:00.000",
+        "fremont_bridge_nb": "102",
+        "fremont_bridge_sb": "125"
+    },
+    {
+        "date": "2017-07-07T09:00:00.000",
+        "fremont_bridge_nb": "160",
+        "fremont_bridge_sb": "155"
+    },
+    {
+        "date": "2017-07-01T04:00:00.000",
+        "fremont_bridge_nb": "2",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-07-28T08:00:00.000",
+        "fremont_bridge_nb": "285",
+        "fremont_bridge_sb": "248"
+    },
+    {
+        "date": "2017-07-21T18:00:00.000",
+        "fremont_bridge_nb": "94",
+        "fremont_bridge_sb": "254"
+    },
+    {
+        "date": "2017-07-24T20:00:00.000",
+        "fremont_bridge_nb": "63",
+        "fremont_bridge_sb": "96"
+    },
+    {
+        "date": "2017-07-29T15:00:00.000",
+        "fremont_bridge_nb": "93",
+        "fremont_bridge_sb": "106"
+    },
+    {
+        "date": "2017-07-24T10:00:00.000",
+        "fremont_bridge_nb": "61",
+        "fremont_bridge_sb": "71"
+    },
+    {
+        "date": "2017-07-01T16:00:00.000",
+        "fremont_bridge_nb": "86",
+        "fremont_bridge_sb": "113"
+    },
+    {
+        "date": "2017-07-24T18:00:00.000",
+        "fremont_bridge_nb": "173",
+        "fremont_bridge_sb": "368"
+    },
+    {
+        "date": "2017-07-05T18:00:00.000",
+        "fremont_bridge_nb": "178",
+        "fremont_bridge_sb": "336"
+    },
+    {
+        "date": "2017-07-17T00:00:00.000",
+        "fremont_bridge_nb": "3",
+        "fremont_bridge_sb": "4"
+    },
+    {
+        "date": "2017-07-31T04:00:00.000",
+        "fremont_bridge_nb": "6",
+        "fremont_bridge_sb": "5"
+    },
+    {
+        "date": "2017-07-13T00:00:00.000",
+        "fremont_bridge_nb": "9",
+        "fremont_bridge_sb": "9"
+    },
+    {
+        "date": "2017-07-07T07:00:00.000",
+        "fremont_bridge_nb": "219",
+        "fremont_bridge_sb": "178"
+    },
+    {
+        "date": "2017-07-13T21:00:00.000",
+        "fremont_bridge_nb": "62",
+        "fremont_bridge_sb": "45"
+    },
+    {
+        "date": "2017-07-24T16:00:00.000",
+        "fremont_bridge_nb": "115",
+        "fremont_bridge_sb": "316"
+    },
+    {
+        "date": "2017-07-15T13:00:00.000",
+        "fremont_bridge_nb": "114",
+        "fremont_bridge_sb": "97"
+    },
+    {
+        "date": "2017-07-20T20:00:00.000",
+        "fremont_bridge_nb": "79",
+        "fremont_bridge_sb": "94"
+    },
+    {
+        "date": "2017-07-27T08:00:00.000",
+        "fremont_bridge_nb": "257",
+        "fremont_bridge_sb": "242"
+    },
+    {
+        "date": "2017-07-03T20:00:00.000",
+        "fremont_bridge_nb": "53",
+        "fremont_bridge_sb": "67"
+    },
+    {
+        "date": "2017-07-08T18:00:00.000",
+        "fremont_bridge_nb": "77",
+        "fremont_bridge_sb": "70"
+    },
+    {
+        "date": "2017-07-05T15:00:00.000",
+        "fremont_bridge_nb": "54",
+        "fremont_bridge_sb": "93"
+    },
+    {
+        "date": "2017-07-29T22:00:00.000",
+        "fremont_bridge_nb": "20",
+        "fremont_bridge_sb": "29"
+    },
+    {
+        "date": "2017-07-03T10:00:00.000",
+        "fremont_bridge_nb": "57",
+        "fremont_bridge_sb": "68"
+    },
+    {
+        "date": "2017-07-11T01:00:00.000",
+        "fremont_bridge_nb": "2",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-07-12T15:00:00.000",
+        "fremont_bridge_nb": "88",
+        "fremont_bridge_sb": "109"
+    },
+    {
+        "date": "2017-07-14T15:00:00.000",
+        "fremont_bridge_nb": "80",
+        "fremont_bridge_sb": "149"
+    },
+    {
+        "date": "2017-07-27T05:00:00.000",
+        "fremont_bridge_nb": "35",
+        "fremont_bridge_sb": "24"
+    },
+    {
+        "date": "2017-07-25T16:00:00.000",
+        "fremont_bridge_nb": "107",
+        "fremont_bridge_sb": "297"
+    },
+    {
+        "date": "2015-12-06T04:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-07-17T19:00:00.000",
+        "fremont_bridge_nb": "98",
+        "fremont_bridge_sb": "178"
+    },
+    {
+        "date": "2017-07-02T16:00:00.000",
+        "fremont_bridge_nb": "91",
+        "fremont_bridge_sb": "100"
+    },
+    {
+        "date": "2017-07-24T23:00:00.000",
+        "fremont_bridge_nb": "11",
+        "fremont_bridge_sb": "25"
+    },
+    {
+        "date": "2017-07-22T04:00:00.000",
+        "fremont_bridge_nb": "2",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-07-21T11:00:00.000",
+        "fremont_bridge_nb": "47",
+        "fremont_bridge_sb": "58"
+    },
+    {
+        "date": "2017-07-21T20:00:00.000",
+        "fremont_bridge_nb": "44",
+        "fremont_bridge_sb": "68"
+    },
+    {
+        "date": "2017-07-01T10:00:00.000",
+        "fremont_bridge_nb": "47",
+        "fremont_bridge_sb": "71"
+    },
+    {
+        "date": "2017-07-09T13:00:00.000",
+        "fremont_bridge_nb": "101",
+        "fremont_bridge_sb": "94"
+    },
+    {
+        "date": "2017-07-12T07:00:00.000",
+        "fremont_bridge_nb": "307",
+        "fremont_bridge_sb": "212"
+    },
+    {
+        "date": "2017-07-15T17:00:00.000",
+        "fremont_bridge_nb": "92",
+        "fremont_bridge_sb": "101"
+    },
+    {
+        "date": "2017-07-21T10:00:00.000",
+        "fremont_bridge_nb": "56",
+        "fremont_bridge_sb": "68"
+    },
+    {
+        "date": "2017-07-27T16:00:00.000",
+        "fremont_bridge_nb": "96",
+        "fremont_bridge_sb": "229"
+    },
+    {
+        "date": "2017-07-21T09:00:00.000",
+        "fremont_bridge_nb": "160",
+        "fremont_bridge_sb": "158"
+    },
+    {
+        "date": "2017-07-31T13:00:00.000",
+        "fremont_bridge_nb": "44",
+        "fremont_bridge_sb": "63"
+    },
+    {
+        "date": "2017-07-14T23:00:00.000",
+        "fremont_bridge_nb": "15",
+        "fremont_bridge_sb": "22"
+    },
+    {
+        "date": "2017-07-02T04:00:00.000",
+        "fremont_bridge_nb": "4",
+        "fremont_bridge_sb": "1"
+    },
+    {
+        "date": "2017-07-31T00:00:00.000",
+        "fremont_bridge_nb": "2",
+        "fremont_bridge_sb": "3"
+    },
+    {
+        "date": "2017-07-02T02:00:00.000",
+        "fremont_bridge_nb": "5",
+        "fremont_bridge_sb": "3"
+    },
+    {
+        "date": "2017-07-17T02:00:00.000",
+        "fremont_bridge_nb": "1",
+        "fremont_bridge_sb": "1"
+    },
+    {
+        "date": "2017-07-13T23:00:00.000",
+        "fremont_bridge_nb": "9",
+        "fremont_bridge_sb": "13"
+    },
+    {
+        "date": "2017-07-17T03:00:00.000",
+        "fremont_bridge_nb": "2",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-07-27T15:00:00.000",
+        "fremont_bridge_nb": "55",
+        "fremont_bridge_sb": "108"
+    },
+    {
+        "date": "2015-12-29T01:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-07-06T16:00:00.000",
+        "fremont_bridge_nb": "111",
+        "fremont_bridge_sb": "263"
+    },
+    {
+        "date": "2015-12-25T03:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-07-21T06:00:00.000",
+        "fremont_bridge_nb": "88",
+        "fremont_bridge_sb": "61"
+    },
+    {
+        "date": "2017-07-17T23:00:00.000",
+        "fremont_bridge_nb": "15",
+        "fremont_bridge_sb": "9"
+    },
+    {
+        "date": "2017-07-31T17:00:00.000",
+        "fremont_bridge_nb": "199",
+        "fremont_bridge_sb": "641"
+    },
+    {
+        "date": "2017-07-25T01:00:00.000",
+        "fremont_bridge_nb": "7",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-07-09T20:00:00.000",
+        "fremont_bridge_nb": "41",
+        "fremont_bridge_sb": "44"
+    },
+    {
+        "date": "2017-07-02T09:00:00.000",
+        "fremont_bridge_nb": "53",
+        "fremont_bridge_sb": "66"
+    },
+    {
+        "date": "2017-07-04T06:00:00.000",
+        "fremont_bridge_nb": "16",
+        "fremont_bridge_sb": "15"
+    },
+    {
+        "date": "2017-07-08T11:00:00.000",
+        "fremont_bridge_nb": "108",
+        "fremont_bridge_sb": "109"
+    },
+    {
+        "date": "2017-07-16T22:00:00.000",
+        "fremont_bridge_nb": "14",
+        "fremont_bridge_sb": "17"
+    },
+    {
+        "date": "2017-07-26T08:00:00.000",
+        "fremont_bridge_nb": "357",
+        "fremont_bridge_sb": "293"
+    },
+    {
+        "date": "2017-07-31T11:00:00.000",
+        "fremont_bridge_nb": "58",
+        "fremont_bridge_sb": "61"
+    },
+    {
+        "date": "2017-07-18T13:00:00.000",
+        "fremont_bridge_nb": "49",
+        "fremont_bridge_sb": "50"
+    },
+    {
+        "date": "2017-07-25T00:00:00.000",
+        "fremont_bridge_nb": "3",
+        "fremont_bridge_sb": "8"
+    },
+    {
+        "date": "2017-07-13T17:00:00.000",
+        "fremont_bridge_nb": "162",
+        "fremont_bridge_sb": "501"
+    },
+    {
+        "date": "2017-07-14T17:00:00.000",
+        "fremont_bridge_nb": "170",
+        "fremont_bridge_sb": "464"
+    },
+    {
+        "date": "2017-07-29T12:00:00.000",
+        "fremont_bridge_nb": "101",
+        "fremont_bridge_sb": "81"
+    },
+    {
+        "date": "2017-07-22T01:00:00.000",
+        "fremont_bridge_nb": "9",
+        "fremont_bridge_sb": "8"
+    },
+    {
+        "date": "2017-07-02T13:00:00.000",
+        "fremont_bridge_nb": "110",
+        "fremont_bridge_sb": "119"
+    },
+    {
+        "date": "2017-07-13T15:00:00.000",
+        "fremont_bridge_nb": "64",
+        "fremont_bridge_sb": "99"
+    },
+    {
+        "date": "2017-07-09T17:00:00.000",
+        "fremont_bridge_nb": "82",
+        "fremont_bridge_sb": "89"
+    },
+    {
+        "date": "2017-07-07T14:00:00.000",
+        "fremont_bridge_nb": "53",
+        "fremont_bridge_sb": "75"
+    },
+    {
+        "date": "2015-12-21T01:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "0"
+    },
+    {
+        "date": "2017-07-25T06:00:00.000",
+        "fremont_bridge_nb": "106",
+        "fremont_bridge_sb": "90"
+    },
+    {
+        "date": "2017-07-12T03:00:00.000",
+        "fremont_bridge_nb": "2",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-07-23T05:00:00.000",
+        "fremont_bridge_nb": "5",
+        "fremont_bridge_sb": "6"
+    },
+    {
+        "date": "2017-07-14T13:00:00.000",
+        "fremont_bridge_nb": "61",
+        "fremont_bridge_sb": "66"
+    },
+    {
+        "date": "2017-07-15T09:00:00.000",
+        "fremont_bridge_nb": "65",
+        "fremont_bridge_sb": "64"
+    },
+    {
+        "date": "2017-07-23T13:00:00.000",
+        "fremont_bridge_nb": "116",
+        "fremont_bridge_sb": "102"
+    },
+    {
+        "date": "2017-07-14T04:00:00.000",
+        "fremont_bridge_nb": "5",
+        "fremont_bridge_sb": "5"
+    },
+    {
+        "date": "2017-07-06T22:00:00.000",
+        "fremont_bridge_nb": "36",
+        "fremont_bridge_sb": "32"
+    },
+    {
+        "date": "2017-07-23T03:00:00.000",
+        "fremont_bridge_nb": "0",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-07-25T09:00:00.000",
+        "fremont_bridge_nb": "155",
+        "fremont_bridge_sb": "188"
+    },
+    {
+        "date": "2017-07-18T02:00:00.000",
+        "fremont_bridge_nb": "4",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-07-17T14:00:00.000",
+        "fremont_bridge_nb": "44",
+        "fremont_bridge_sb": "83"
+    },
+    {
+        "date": "2017-07-20T14:00:00.000",
+        "fremont_bridge_nb": "43",
+        "fremont_bridge_sb": "69"
+    },
+    {
+        "date": "2017-07-25T07:00:00.000",
+        "fremont_bridge_nb": "274",
+        "fremont_bridge_sb": "260"
+    },
+    {
+        "date": "2017-07-01T17:00:00.000",
+        "fremont_bridge_nb": "85",
+        "fremont_bridge_sb": "106"
+    },
+    {
+        "date": "2017-07-04T21:00:00.000",
+        "fremont_bridge_nb": "86",
+        "fremont_bridge_sb": "60"
+    },
+    {
+        "date": "2017-07-14T09:00:00.000",
+        "fremont_bridge_nb": "159",
+        "fremont_bridge_sb": "141"
+    },
+    {
+        "date": "2017-07-17T21:00:00.000",
+        "fremont_bridge_nb": "28",
+        "fremont_bridge_sb": "56"
+    },
+    {
+        "date": "2017-07-19T05:00:00.000",
+        "fremont_bridge_nb": "37",
+        "fremont_bridge_sb": "16"
+    },
+    {
+        "date": "2017-07-21T14:00:00.000",
+        "fremont_bridge_nb": "69",
+        "fremont_bridge_sb": "88"
+    },
+    {
+        "date": "2017-07-10T08:00:00.000",
+        "fremont_bridge_nb": "347",
+        "fremont_bridge_sb": "318"
+    },
+    {
+        "date": "2017-07-14T05:00:00.000",
+        "fremont_bridge_nb": "29",
+        "fremont_bridge_sb": "18"
+    },
+    {
+        "date": "2017-07-15T11:00:00.000",
+        "fremont_bridge_nb": "83",
+        "fremont_bridge_sb": "87"
+    },
+    {
+        "date": "2017-07-29T04:00:00.000",
+        "fremont_bridge_nb": "3",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-07-02T00:00:00.000",
+        "fremont_bridge_nb": "21",
+        "fremont_bridge_sb": "12"
+    },
+    {
+        "date": "2017-07-06T05:00:00.000",
+        "fremont_bridge_nb": "31",
+        "fremont_bridge_sb": "18"
+    },
+    {
+        "date": "2017-07-12T22:00:00.000",
+        "fremont_bridge_nb": "39",
+        "fremont_bridge_sb": "36"
+    },
+    {
+        "date": "2017-07-02T19:00:00.000",
+        "fremont_bridge_nb": "59",
+        "fremont_bridge_sb": "71"
+    },
+    {
+        "date": "2017-07-30T00:00:00.000",
+        "fremont_bridge_nb": "11",
+        "fremont_bridge_sb": "22"
+    },
+    {
+        "date": "2017-07-24T19:00:00.000",
+        "fremont_bridge_nb": "91",
+        "fremont_bridge_sb": "168"
+    },
+    {
+        "date": "2017-07-03T03:00:00.000",
+        "fremont_bridge_nb": "2",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-07-30T05:00:00.000",
+        "fremont_bridge_nb": "10",
+        "fremont_bridge_sb": "3"
+    },
+    {
+        "date": "2017-07-17T22:00:00.000",
+        "fremont_bridge_nb": "20",
+        "fremont_bridge_sb": "30"
+    },
+    {
+        "date": "2017-07-30T20:00:00.000",
+        "fremont_bridge_nb": "49",
+        "fremont_bridge_sb": "47"
+    },
+    {
+        "date": "2017-07-04T01:00:00.000",
+        "fremont_bridge_nb": "9",
+        "fremont_bridge_sb": "2"
+    },
+    {
+        "date": "2017-07-15T01:00:00.000",
+        "fremont_bridge_nb": "5",
+        "fremont_bridge_sb": "7"
+    }
+]

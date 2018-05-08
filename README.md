@@ -38,7 +38,7 @@ By the end of this class you will be able to:
 * Connect to a file in Tableau
 * Create a simple chart
  
-#### Exercise: Create your first chart using the Seattle Pet License data**  -  7:30
+#### Exercise: Create your first chart using the Seattle Pet License data  -  7:30
 * The Seattle Pet License dataset
     * [In our class repository](/Seattle_pet_license_data/Seattle_Pet_Licenses_2016_to_2018.csv)
     * [Web link](https://data.seattle.gov/Community/Seattle-Pet-Licenses/jguv-t9rb)
@@ -47,7 +47,7 @@ By the end of this class you will be able to:
 * Modify to be a bar chart
 * Duplicate the worksheet and modify so that the chart shows the count of the licenses by month for all years
   
-#### Code along #2  -  7:45
+#### Code along: Work with multiple measures  -  7:45
 * Freemont bridge data
   * [In our class repository](/Freemont_bridge_data/Freemont_bridge_bike_traffic-daily.json)
   * [Web link](https://data.seattle.gov/Transportation/Fremont-Bridge-Daily-Bicycle-Counts/eytj-7qg9/data)

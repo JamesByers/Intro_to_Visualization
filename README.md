@@ -1,5 +1,5 @@
 # Intro to Visualization
-## A short workshop to get aquainted with data visualization
+## A short workshop to get acquainted with data visualization
 
 ### Learning objectives
 By the end of this class you will be able to:
@@ -38,16 +38,15 @@ By the end of this class you will be able to:
 * Connect to a file in Tableau
 * Create a simple chart
  
-#### Exercise: Create your first chart using the Seattle Pet License data**  -  7:30
+#### Exercise: Create your first chart using the Seattle Pet License data  -  7:30
 * The Seattle Pet License dataset
     * [In our class repository](/Seattle_pet_license_data/Seattle_Pet_Licenses_2016_to_2018.csv)
     * [Web link](https://data.seattle.gov/Community/Seattle-Pet-Licenses/jguv-t9rb)
 * Create a line chart with License Day on the x axis (horizontal axis) and count of License Numbers on the y axis (vertical access)
 * Duplicate worksheet and modify to be a line chart with Month on the x axis
 * Modify to be a bar chart
-* Duplicate the worksheet and modify so that the chart shows the count of the licenses by month for all years
   
-#### Code along #2  -  7:45
+#### Code along: Work with multiple measures  -  7:45
 * Freemont bridge data
   * [In our class repository](/Freemont_bridge_data/Freemont_bridge_bike_traffic-daily.json)
   * [Web link](https://data.seattle.gov/Transportation/Fremont-Bridge-Daily-Bicycle-Counts/eytj-7qg9/data)
@@ -60,8 +59,10 @@ By the end of this class you will be able to:
   * [In our class repository](/Elliot_bay_trail_data/Elliott_Bay_Trail_in_Myrtle_Edwards_Park.csv)
   * [Web link](https://data.seattle.gov/Transportation/Elliott-Bay-Trail-in-Myrtle-Edwards-Park/4qej-qvrz)
 
-* Use calculated fields to create a chart of pedestrians by month
-* Create a new chart using the "Measure Names and filters to create a chart comparing all four entrance counts over time
+* Use a calculated fields to create a line chart of total pedestrians by month
+* Use a calculated fields to create a line chart of bikes by month
+* Create a new chart using the "Measure Names" and filters to create a chart comparing total pedestrians and bikes over time
+* Bonus: Create a new chart that compares all four bike and pedestrian counts over time
   
 #### Code along - Create Dashboards  -  8:20
 * Create a dashboard from worksheet vizualizations

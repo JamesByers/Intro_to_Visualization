@@ -8,28 +8,28 @@ By the end of this class you will be able to:
 * Create a dashboard from several visualizations
 
 ### Agenda
-* **Introductions** -  6:30
-* **Visualization overview**  -  6:45
-* **Code-along with the Pronto Bike Share data**  -  7:00
+* **Introductions** -  6:00
+* **Visualization overview**  -  6:15
+* **Code-along with the Pronto Bike Share data**  -  6:30
   * Get acquainted  with the Tableau worksheet functions
   * Connect to a file in Tableau
   * Create a simple chart
-* **Exercise: Develop your first graph Seattle Pet Licenses data**  -  7:30
-* **Code along**  -  7:45
+* **Exercise: Develop your first graph Seattle Pet Licenses data**  -  7:00
+* **Code along**  -  7:15
   * Create simple calculated fields
   * Work with multiple measures
-* **Exercise with Elliot Bay Trail data**  -  8:00 
+* **Exercise with Elliot Bay Trail data**  -  7:30 
   * Use calculated fields to feed look at pedestrians vs. bikes
-* **Code along - Create Dashboards**  -  8:20
-* **Exercise: Create dashboards with Pronto Bike share data**  -  8:30
-* **Closure**  -  8:50
+* **Code along - Create Dashboards**  -  7:50
+* **Exercise: Create dashboards with Pronto Bike share data**  -  8:00
+* **Closure**  -  8:30
  
 ## Content
 
-##### Visualization overview  -  6:45
+##### Visualization overview  -  6:15
 * [A few slides](https://docs.google.com/presentation/d/1fRl4N4mOWAYA5mRbtbnBE5lQMnku0eSJa6vqJq9oUgI/edit?usp=sharing)
  
-#### Code-along  -  7:00
+#### Code-along  -  6:30
 * Download the Pronto Bike Share dataset
   * [In our class repository](/Pronto_bike_share_visualization/cycle-share-dataset/trip.csv)
   * [Web Location](https://www.kaggle.com/pronto/cycle-share-dataset)
@@ -38,7 +38,7 @@ By the end of this class you will be able to:
 * Connect to a file in Tableau
 * Create a simple chart
  
-#### Exercise: Create your first chart using the Seattle Pet License data  -  7:30
+#### Exercise: Create your first chart using the Seattle Pet License data  -  7:00
 * The Seattle Pet License dataset
     * [In our class repository](/Seattle_pet_license_data/Seattle_Pet_Licenses_2016_to_2018.csv)
     * [Web link](https://data.seattle.gov/Community/Seattle-Pet-Licenses/jguv-t9rb)
@@ -46,7 +46,7 @@ By the end of this class you will be able to:
 * Duplicate worksheet and modify to be a line chart with Month on the x axis
 * Modify to be a bar chart
   
-#### Code along: Work with multiple measures  -  7:45
+#### Code along: Work with multiple measures  -  7:15
 * Freemont bridge data
   * [In our class repository](/Freemont_bridge_data/Freemont_bridge_bike_traffic-daily.json)
   * [Web link](https://data.seattle.gov/Transportation/Fremont-Bridge-Daily-Bicycle-Counts/eytj-7qg9/data)
@@ -54,7 +54,7 @@ By the end of this class you will be able to:
 * Work with multiple measures
 * Add filters
 
-#### Exercise with Elliot Bay Trail data  -  8:00
+#### Exercise with Elliot Bay Trail data  -  7:30
 * Elliot Bay Trail data
   * [In our class repository](/Elliot_bay_trail_data/Elliott_Bay_Trail_in_Myrtle_Edwards_Park.csv)
   * [Web link](https://data.seattle.gov/Transportation/Elliott-Bay-Trail-in-Myrtle-Edwards-Park/4qej-qvrz)
@@ -64,11 +64,11 @@ By the end of this class you will be able to:
 * Create a new chart using the "Measure Names" and filters to create a chart comparing total pedestrians and bikes over time
 * Bonus: Create a new chart that compares all four bike and pedestrian counts over time
   
-#### Code along - Create Dashboards  -  8:20
+#### Code along - Create Dashboards  -  7:50
 * Create a dashboard from worksheet vizualizations
 * Add text and blank areas for clarity and pleasant appearence
 
-#### Exercise: Create dashboards with Pronto Bike share data
+#### Exercise: Create dashboards with Pronto Bike share data  -  8:00
 * Together let's create a chart with a count of Trips by day of the week (code along)
   * Add a color of Month of Starttime
   * Add a filter of Month of Starttime and select just December 2014 and July or 2015

@@ -31,7 +31,7 @@ By the end of this class you will be able to:
  
 #### Code-along  -  6:30
 * Download the Pronto Bike Share dataset
-  * [In our class repository](/Pronto_bike_share_visualization/cycle-share-dataset/trip.csv)
+  * [In our class repository](/Pronto_bike_share_visualization/cycle-share-dataset/2015_trip_data.csv)
   * [Web Location](https://www.kaggle.com/pronto/cycle-share-dataset)
     * Note this data set on Kaggle has some data quality issues that are eliminated in the class repository version
 * Get acquainted with the Tableau worksheet editing areas and functions
@@ -42,8 +42,9 @@ By the end of this class you will be able to:
 * The Seattle Pet License dataset
     * [In our class repository](/Seattle_pet_license_data/Seattle_Pet_Licenses_2016_to_2018.csv)
     * [Web link](https://data.seattle.gov/Community/Seattle-Pet-Licenses/jguv-t9rb)
-* Create a line chart with License Day on the x axis (horizontal axis) and count of License Numbers on the y axis (vertical access)
-* Duplicate worksheet and modify to be a line chart with Month on the x axis
+* Create a line chart that will provide a view of number of licenses by day
+  * Create a line chart with License Day on the x axis (horizontal axis) and count of License Numbers on the y axis (vertical access)
+  * Duplicate worksheet and modify to be a line chart with Month on the x axis
 * Modify to be a bar chart
   
 #### Code along: Work with multiple measures  -  7:15
@@ -58,15 +59,14 @@ By the end of this class you will be able to:
 * Elliot Bay Trail data
   * [In our class repository](/Elliot_bay_trail_data/Elliott_Bay_Trail_in_Myrtle_Edwards_Park.csv)
   * [Web link](https://data.seattle.gov/Transportation/Elliott-Bay-Trail-in-Myrtle-Edwards-Park/4qej-qvrz)
-
-* Use a calculated fields to create a line chart of total pedestrians by month
-* Use a calculated fields to create a line chart of bikes by month
+* Use a calculated field to create a line chart of total pedestrians by month
+* Use a calculated field to create a line chart of bikes by month
 * Create a new chart using the "Measure Names" and filters to create a chart comparing total pedestrians and bikes over time
 * Bonus: Create a new chart that compares all four bike and pedestrian counts over time
   
 #### Code along - Create Dashboards  -  7:50
 * Create a dashboard from worksheet vizualizations
-* Add text and blank areas for clarity and pleasant appearence
+* Add text and blank areas for clarity and pleasant appearance
 
 #### Exercise: Create dashboards with Pronto Bike share data  -  8:00
 * Together let's create a chart with a count of Trips by day of the week (code along)

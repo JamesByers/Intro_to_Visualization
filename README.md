@@ -14,12 +14,12 @@ By the end of this class you will be able to:
   * Get acquainted  with the Tableau worksheet functions
   * Connect to a file in Tableau
   * Create a simple chart
-* **Exercise: Develop your first graph Seattle Pet Licenses data**  -  7:00
+* **Exercise: Develop your first graph using Seattle Pet Licenses data**  -  7:00
 * **Code along**  -  7:15
   * Create simple calculated fields
   * Work with multiple measures
 * **Exercise with Elliot Bay Trail data**  -  7:30 
-  * Use calculated fields to feed look at pedestrians vs. bikes
+  * Use calculated fields to look at pedestrians vs. bikes
 * **Code along - Create Dashboards**  -  7:50
 * **Exercise: Create dashboards with Pronto Bike share data**  -  8:00
 * **Closure**  -  8:30
@@ -32,8 +32,8 @@ By the end of this class you will be able to:
 #### Code-along  -  6:30
 * Download the Pronto Bike Share dataset
   * [In our class repository](/Pronto_bike_share_visualization/cycle-share-dataset/2015_trip_data.csv)
-  * [Web Location](https://www.kaggle.com/pronto/cycle-share-dataset)
-    * Note this data set on Kaggle has some data quality issues that are eliminated in the class repository version
+     * Note this data set is sourced from Kaggle.com has some data quality issues that are eliminated in the class repository version
+  * [Kaggle.com Location](https://www.kaggle.com/pronto/cycle-share-dataset)
 * Get acquainted with the Tableau worksheet editing areas and functions
 * Connect to a file in Tableau
 * Create a simple chart

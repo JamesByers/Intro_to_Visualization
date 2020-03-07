@@ -31,7 +31,7 @@ By the end of this class you will be able to:
  
 #### Code-along  -  6:30
 * Download the Pronto Bike Share dataset
-  * [In our class repository](/Pronto_bike_share_visualization/cycle-share-dataset/2015_trip_data.csv)
+  * [In our workshop repository](/Pronto_bike_share_visualization/cycle-share-dataset/2015_trip_data.csv)
      * Note this data set is sourced from Kaggle.com has some data quality issues that are eliminated in the class repository version
   * [Kaggle.com Location](https://www.kaggle.com/pronto/cycle-share-dataset)
 * Get acquainted with the Tableau worksheet editing areas and functions
@@ -40,7 +40,7 @@ By the end of this class you will be able to:
  
 #### Exercise: Create your first chart using the Seattle Pet License data  -  7:00
 * The Seattle Pet License dataset
-    * [In our class repository](/Seattle_pet_license_data/Seattle_Pet_Licenses_2016_to_2018.csv)
+    * [In our workshop repository](/Seattle_pet_license_data/Seattle_Pet_Licenses_2016_to_2018.csv)
     * [Web link](https://data.seattle.gov/Community/Seattle-Pet-Licenses/jguv-t9rb)
 * Create a line chart that will provide a view of number of licenses by day
   * Create a line chart with License Day on the x axis (horizontal axis) and count of License Numbers on the y axis (vertical access)
@@ -49,7 +49,7 @@ By the end of this class you will be able to:
   
 #### Code along: Work with multiple measures  -  7:15
 * Freemont bridge data
-  * [In our class repository](/Freemont_bridge_data/Freemont_bridge_bike_traffic-daily.json)
+  * [In our workshop repository](/Freemont_bridge_data/Freemont_bridge_bike_traffic-daily.json)
   * [Web link](https://data.seattle.gov/Transportation/Fremont-Bridge-Daily-Bicycle-Counts/eytj-7qg9/data)
 * Create simple calculated fields
 * Work with multiple measures
@@ -69,7 +69,7 @@ By the end of this class you will be able to:
 * Add text and blank areas for clarity and pleasant appearance
 
 #### Exercise: Create dashboards with Pronto Bike share data  -  8:00
-* Together let's create a chart with a count of Trips by day of the week (code along)
+* Create a chart with a count of Trips by day of the week (code along)
   * Add a color of Month of Starttime
   * Add a filter of Month of Starttime and select just December 2014 and July or 2015
 * Create another chart (new worksheet) with the average trip duration vs day of the week
